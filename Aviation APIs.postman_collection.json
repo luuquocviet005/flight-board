@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "Aviation APIs",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "AirLabs",
+      "item": [
+        {"name": "Airport SGN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/airports?iata_code=SGN&api_key={{airlabs_key}}"}},
+        {"name": "Airline VN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/airlines?iata_code=VN&api_key={{airlabs_key}}"}},
+        {"name": "Live flights from SGN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/flights?dep_iata=SGN&api_key={{airlabs_key}}"}},
+        {"name": "Schedules departing SGN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/schedules?dep_iata=SGN&api_key={{airlabs_key}}"}},
+        {"name": "Schedules arriving HAN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/schedules?arr_iata=HAN&api_key={{airlabs_key}}"}},
+        {"name": "Routes SGN", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/routes?dep_iata=SGN&api_key={{airlabs_key}}"}},
+        {"name": "Flight VN220", "request": {"method": "GET", "url": "https://airlabs.co/api/v9/flight?flight_iata=VN220&api_key={{airlabs_key}}"}}
+      ]
+    },
+    {
+      "name": "Aviationstack",
+      "item": [
+        {"name": "Flights from SGN", "request": {"method": "GET", "url": "http://api.aviationstack.com/v1/flights?dep_iata=SGN&limit=10&access_key={{aviationstack_key}}"}},
+        {"name": "Flights to HAN", "request": {"method": "GET", "url": "http://api.aviationstack.com/v1/flights?arr_iata=HAN&limit=10&access_key={{aviationstack_key}}"}},
+        {"name": "Airports", "request": {"method": "GET", "url": "http://api.aviationstack.com/v1/airports?limit=10&access_key={{aviationstack_key}}"}},
+        {"name": "Airlines", "request": {"method": "GET", "url": "http://api.aviationstack.com/v1/airlines?limit=10&access_key={{aviationstack_key}}"}},
+        {"name": "Airplanes", "request": {"method": "GET", "url": "http://api.aviationstack.com/v1/airplanes?limit=10&access_key={{aviationstack_key}}"}}
+      ]
+    },
+    {
+      "name": "AirportsAPI (no key)",
+      "item": [
+        {"name": "Airport by ICAO VVTS", "request": {"method": "GET", "url": "https://airportsapi.com/api/airports/VVTS"}},
+        {"name": "Airport by ICAO VVNB", "request": {"method": "GET", "url": "https://airportsapi.com/api/airports/VVNB"}},
+        {"name": "Airports in Vietnam", "request": {"method": "GET", "url": "https://airportsapi.com/api/countries/VN/airports"}},
+        {"name": "Country VN", "request": {"method": "GET", "url": "https://airportsapi.com/api/countries/VN"}}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+ "updated": "2026-10-16T09:03+00:00",
+ "airports": {
+  "SGN": {
+   "info": {
+    "name": "Tan Son Nhat International Airport",
+    "iata_code": "SGN",
+    "icao_code": "VVTS",
+    "type": "large_airport",
+    "latitude": 10.8188,
+    "longitude": 106.652,
+    "elevation": 33
+   },
+   "airlabs": [],
+   "aviationstack": [],
+   "errors": {
+    "airlabs": "AIRLABS_KEY not set",
+    "aviationstack": "AVIATIONSTACK_KEY not set"
+   }
+  },
+  "HAN": {
+   "info": {
+    "name": "Noi Bai International Airport",
+    "iata_code": "HAN",
+    "icao_code": "VVNB",
+    "type": "large_airport",
+    "latitude": 21.221201,
+    "longitude": 105.806999,
+    "elevation": 39
+   },
+   "airlabs": [],
+   "aviationstack": [],
+   "errors": {
+    "airlabs": "AIRLABS_KEY not set",
+    "aviationstack": "AVIATIONSTACK_KEY not set"
+   }
+  },
+  "DAD": {
+   "info": {
+    "name": "Da Nang International Airport",
+    "iata_code": "DAD",
+    "icao_code": "VVDN",
+    "type": "large_airport",
+    "latitude": 16.0439,
+    "longitude": 108.198997,
+    "elevation": 33
+   },
+   "airlabs": [],
+   "aviationstack": [],
+   "errors": {
+    "airlabs": "AIRLABS_KEY not set",
+    "aviationstack": "AVIATIONSTACK_KEY not set"
+   }
+  }
+ }
+}
