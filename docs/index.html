@@ -95,7 +95,7 @@ function render() {
     <td><span class="pill s-${esc(f.status)}">${esc(f.status)}</span></td><td>${f.delay ? f.delay + " min" : ""}</td></tr>`).join("");
 }
 
-fetch("data.json").then(r => r.json()).then(d => {
+fetch("data.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   data = d;
   $("updated").textContent = "Last updated: " + new Date(d.updated).toLocaleString();
   $("airports").innerHTML = Object.keys(d.airports).map(c => `<button data-code="${c}">${c}</button>`).join("");
