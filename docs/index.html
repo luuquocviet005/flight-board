@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flight Board</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1d2330; --muted:#6b7280; --line:#e3e6ea; --accent:#2563eb; --accent-text:#fff; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#12151b; --card:#1b1f27; --text:#e6e8eb; --muted:#9aa1ad; --line:#2c323d; --accent:#3b82f6; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:1000px; margin:0 auto; padding:24px 16px; }
+  h1 { margin:0 0 4px; font-size:26px; }
+  .muted { color:var(--muted); font-size:13px; }
+  .bar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:16px 0; }
+  button { font:inherit; padding:8px 16px; border:1px solid var(--line); background:var(--card); color:var(--text); border-radius:8px; cursor:pointer; }
+  button[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--accent-text); }
+  input, select { font:inherit; padding:8px 10px; border:1px solid var(--line); background:var(--card); color:var(--text); border-radius:8px; }
+  input { flex:1; min-width:160px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:16px; margin-bottom:16px; }
+  .info { display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:8px 16px; }
+  .info b { display:block; font-size:12px; color:var(--muted); font-weight:500; }
+  .scroll { overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); white-space:nowrap; }
+  th { color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; }
+  .pill { padding:2px 8px; border-radius:999px; font-size:12px; background:var(--line); }
+  .s-active, .s-en-route { background:#dbeafe; color:#1e40af; }
+  .s-landed { background:#dcfce7; color:#166534; }
+  .s-scheduled { background:#f3f4f6; color:#374151; }
+  .s-cancelled { background:#fee2e2; color:#991b1b; }
+  .err { color:#b91c1c; font-size:13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Flight Board</h1>
+  <div class="muted" id="updated">Loading…</div>
+
+  <div class="bar" id="airports" role="group" aria-label="Airport"></div>
+
+  <div class="card info" id="info"></div>
+
+  <div class="bar">
+    <div role="group" aria-label="Data source" id="sources">
+      <button data-src="airlabs">AirLabs</button>
+      <button data-src="aviationstack">Aviationstack</button>
+    </div>
+    <input id="q" type="search" placeholder="Search flight, airline or destination…" aria-label="Search">
+    <select id="status" aria-label="Status"><option value="">All statuses</option></select>
+  </div>
+
+  <div class="card">
+    <div class="muted" id="count"></div>
+    <div class="err" id="err"></div>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Flight</th><th>Airline</th><th>From</th><th>To</th><th>Departure</th><th>Arrival</th><th>Status</th><th>Delay</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+</main>
+
+<script>
+const state = { airport: "SGN", src: "airlabs", q: "", status: "" };
+let data;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function render() {
+  const ap = data.airports[state.airport];
+  const i = ap.info;
+  $("info").innerHTML = [["Airport", i.name], ["IATA", i.iata_code], ["ICAO", i.icao_code], ["Type", i.type],
+    ["Latitude", i.latitude], ["Longitude", i.longitude], ["Elevation (ft)", i.elevation]]
+    .map(([k, v]) => `<div><b>${k}</b>${esc(v ?? "—")}</div>`).join("");
+
+  for (const b of document.querySelectorAll("#airports button")) b.setAttribute("aria-pressed", b.dataset.code === state.airport);
+  for (const b of document.querySelectorAll("#sources button")) b.setAttribute("aria-pressed", b.dataset.src === state.src);
+
+  const all = ap[state.src];
+  const statuses = [...new Set(all.map(f => f.status).filter(Boolean))].sort();
+  $("status").innerHTML = `<option value="">All statuses</option>` + statuses.map(s => `<option ${s === state.status ? "selected" : ""}>${esc(s)}</option>`).join("");
+
+  const q = state.q.toLowerCase();
+  const rows = all.filter(f => (!state.status || f.status === state.status) &&
+    (!q || [f.flight, f.airline, f.to].some(v => (v || "").toLowerCase().includes(q))));
+
+  $("count").textContent = `${rows.length} of ${all.length} departures from ${state.airport}`;
+  $("err").textContent = ap.errors[state.src] ? `Error: ${ap.errors[state.src]}` : "";
+  $("rows").innerHTML = rows.map(f => `<tr><td><b>${esc(f.flight)}</b></td><td>${esc(f.airline)}</td><td>${state.airport}</td>
+    <td>${esc(f.to)}</td><td>${esc(f.dep_time)}</td><td>${esc(f.arr_time)}</td>
+    <td><span class="pill s-${esc(f.status)}">${esc(f.status)}</span></td><td>${f.delay ? f.delay + " min" : ""}</td></tr>`).join("");
+}
+
+fetch("data.json").then(r => r.json()).then(d => {
+  data = d;
+  $("updated").textContent = "Last updated: " + new Date(d.updated).toLocaleString();
+  $("airports").innerHTML = Object.keys(d.airports).map(c => `<button data-code="${c}">${c}</button>`).join("");
+  $("airports").onclick = e => { if (e.target.dataset.code) { state.airport = e.target.dataset.code; state.status = ""; render(); } };
+  $("sources").onclick = e => { if (e.target.dataset.src) { state.src = e.target.dataset.src; state.status = ""; render(); } };
+  $("q").oninput = e => { state.q = e.target.value; render(); };
+  $("status").onchange = e => { state.status = e.target.value; render(); };
+  render();
+}).catch(e => { $("updated").textContent = "Could not load data.json: " + e; });
+</script>
+</body>
+</html>

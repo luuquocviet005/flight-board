@@ -1,4 +1,4 @@
-result.json
-index.html
+/result.json
+/index.html
 *.postman_environment.json
 __pycache__/
