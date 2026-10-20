@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug db_load.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/db_load.py",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Debug flights.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/flights.py",
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    }
+  ]
+}

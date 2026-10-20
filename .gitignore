@@ -2,3 +2,4 @@
 /index.html
 *.postman_environment.json
 __pycache__/
+.env
