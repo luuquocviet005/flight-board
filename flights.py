@@ -72,6 +72,9 @@ def safe(fn, *args):
 def main():
     airlabs_key = os.environ.get("AIRLABS_KEY")
     avs_key = os.environ.get("AVIATIONSTACK_KEY")
+    if not (airlabs_key or avs_key):
+        # Don't overwrite the published data.json with an empty board
+        exit("Set AIRLABS_KEY / AVIATIONSTACK_KEY first (in VS Code use the 'Debug flights.py' config, it reads .env)")
     out = {"updated": datetime.now(timezone.utc).isoformat(timespec="minutes"), "airports": {}}
 
     for code in AIRPORTS:
