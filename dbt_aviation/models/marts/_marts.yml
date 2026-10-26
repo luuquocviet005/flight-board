@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: airports_by_country
+    description: Airport counts per country (ISO-2 code).
+    columns:
+      - name: country_code
+        tests: [unique, not_null]
+      - name: total_airports
+        tests: [not_null]
+
+  - name: vn_airports
+    description: Commercial airports in Vietnam (have an IATA code).
+    columns:
+      - name: iata_code
+        tests: [unique, not_null]

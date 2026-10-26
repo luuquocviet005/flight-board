@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: airlabs
+    description: Raw tables loaded by db_load.py from the AirLabs API.
+    schema: public
+    tables:
+      - name: airports
+      - name: airlines
+
+models:
+  - name: stg_airports
+    description: One row per airport, cleaned (trimmed, upper-cased codes, blanks -> NULL).
+    columns:
+      - name: airport_id
+        tests: [unique, not_null]
+      - name: airport_name
+        tests: [not_null]
+      - name: iata_code
+        description: 3-letter IATA code. Small/private airfields often have none.
+        tests:
+          - unique:
+              config: { severity: warn }   # report duplicates without failing the build
+
+  - name: stg_airlines
+    description: One row per airline, cleaned.
+    columns:
+      - name: airline_id
+        tests: [unique, not_null]
+      - name: airline_name
+        tests: [not_null]

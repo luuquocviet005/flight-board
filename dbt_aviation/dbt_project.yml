@@ -1,0 +1,14 @@
+name: aviation
+version: "1.0.0"
+profile: aviation
+
+model-paths: ["models"]
+
+models:
+  aviation:
+    staging:
+      +materialized: view     # cheap, always reflects the raw tables
+      +schema: staging
+    marts:
+      +materialized: table    # precomputed for reporting
+      +schema: marts

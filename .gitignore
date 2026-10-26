@@ -3,3 +3,8 @@
 *.postman_environment.json
 __pycache__/
 .env
+.venv/
+dbt_aviation/target/
+dbt_aviation/logs/
+dbt_aviation/dbt_packages/
+logs/
