@@ -8,3 +8,4 @@ dbt_aviation/target/
 dbt_aviation/logs/
 dbt_aviation/dbt_packages/
 logs/
+dbt_aviation/.user.yml
