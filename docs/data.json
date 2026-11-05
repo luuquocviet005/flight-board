@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:16+00:00",
+ "updated": "2026-11-05T07:43+00:00",
  "airports": {
   "SGN": {
    "info": {
@@ -13,92 +13,29 @@
    },
    "airlabs": [
     {
-     "flight": "MF894",
-     "airline": "MF",
-     "to": "XMN",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 16:30",
-     "status": "active",
-     "delay": 1
-    },
-    {
-     "flight": "9G840",
-     "airline": "9G",
-     "to": "HAN",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 14:35",
-     "status": "active",
-     "delay": 1
-    },
-    {
-     "flight": "OZ732",
-     "airline": "OZ",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:10",
-     "arr_time": "2026-11-04 19:20",
-     "status": "active",
-     "delay": 16
-    },
-    {
-     "flight": "EY8458",
-     "airline": "EY",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:10",
-     "arr_time": "2026-11-04 19:20",
-     "status": "active",
-     "delay": 16
-    },
-    {
-     "flight": "VN3550",
-     "airline": "VN",
-     "to": "XMN",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 16:30",
-     "status": "active",
-     "delay": 1
-    },
-    {
-     "flight": "VN7382",
-     "airline": "VN",
-     "to": "DLI",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 13:30",
-     "status": "landed",
-     "delay": 10
-    },
-    {
      "flight": "VJ327",
      "airline": "VJ",
      "to": "PQC",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 13:45",
-     "status": "landed",
-     "delay": 1
-    },
-    {
-     "flight": "VN3825",
-     "airline": "VN",
-     "to": "SAI",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 14:20",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 13:45",
      "status": "landed",
      "delay": null
-    },
-    {
-     "flight": "BR392",
-     "airline": "BR",
-     "to": "TPE",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:00",
-     "status": "active",
-     "delay": 8
     },
     {
      "flight": "K6825",
      "airline": "K6",
      "to": "SAI",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 14:20",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 14:20",
+     "status": "landed",
+     "delay": null
+    },
+    {
+     "flight": "VN3825",
+     "airline": "VN",
+     "to": "SAI",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 14:20",
      "status": "landed",
      "delay": null
     },
@@ -106,26 +43,35 @@
      "flight": "TK9412",
      "airline": "TK",
      "to": "TPE",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:00",
      "status": "active",
-     "delay": 8
+     "delay": 13
     },
     {
-     "flight": "VN248",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:10",
+     "flight": "BR392",
+     "airline": "BR",
+     "to": "TPE",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:00",
      "status": "active",
+     "delay": 13
+    },
+    {
+     "flight": "VU1140",
+     "airline": "VU",
+     "to": "VII",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 15:00",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "K63248",
      "airline": "K6",
      "to": "HAN",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:10",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:10",
      "status": "active",
      "delay": null
     },
@@ -133,80 +79,71 @@
      "flight": "CI8838",
      "airline": "CI",
      "to": "HAN",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:10",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:10",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "VU108",
-     "airline": "VU",
+     "flight": "VN248",
+     "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 13:05",
-     "arr_time": "2026-11-04 15:15",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:10",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "VJ274",
-     "airline": "VJ",
-     "to": "HPH",
-     "dep_time": "2026-11-04 13:05",
-     "arr_time": "2026-11-04 15:05",
+     "flight": "CZ6078",
+     "airline": "CZ",
+     "to": "PVG",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 18:20",
      "status": "active",
+     "delay": 7
+    },
+    {
+     "flight": "VN3542",
+     "airline": "VN",
+     "to": "PVG",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 18:20",
+     "status": "active",
+     "delay": 7
+    },
+    {
+     "flight": "VU254",
+     "airline": "VU",
+     "to": "DAD",
+     "dep_time": "2026-11-05 13:20",
+     "arr_time": "2026-11-05 14:45",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "VN1827",
      "airline": "VN",
      "to": "PQC",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 14:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VU1140",
-     "airline": "VU",
-     "to": "VII",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 15:00",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN3542",
-     "airline": "VN",
-     "to": "PVG",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 18:20",
-     "status": "active",
-     "delay": 1
-    },
-    {
-     "flight": "CZ6078",
-     "airline": "CZ",
-     "to": "PVG",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 18:20",
-     "status": "active",
-     "delay": 1
-    },
-    {
-     "flight": "VJ343",
-     "airline": "VJ",
-     "to": "PQC",
-     "dep_time": "2026-11-04 09:50",
-     "arr_time": "2026-11-04 10:50",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 14:10",
      "status": "landed",
-     "delay": 202
+     "delay": 10
     },
     {
-     "flight": "AK1493",
+     "flight": "AK1503",
      "airline": "AK",
-     "to": "JHB",
-     "dep_time": "2026-11-04 13:25",
-     "arr_time": "2026-11-04 16:20",
+     "to": "PEN",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 16:15",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VN6442",
+     "airline": "VN",
+     "to": "HPH",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 15:20",
      "status": "active",
      "delay": null
     },
@@ -214,206 +151,80 @@
      "flight": "BL6442",
      "airline": "BL",
      "to": "HPH",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 15:20",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 15:20",
      "status": "active",
-     "delay": 11
-    },
-    {
-     "flight": "VN6442",
-     "airline": "VN",
-     "to": "HPH",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 15:20",
-     "status": "active",
-     "delay": 11
+     "delay": null
     },
     {
      "flight": "VJ807",
      "airline": "VJ",
      "to": "BKK",
-     "dep_time": "2026-11-04 13:25",
-     "arr_time": "2026-11-04 14:55",
+     "dep_time": "2026-11-05 13:25",
+     "arr_time": "2026-11-05 14:55",
      "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "AK1503",
-     "airline": "AK",
-     "to": "PEN",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 16:15",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VU254",
-     "airline": "VU",
-     "to": "DAD",
-     "dep_time": "2026-11-04 13:20",
-     "arr_time": "2026-11-04 14:45",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VJ842",
-     "airline": "VJ",
-     "to": "TPE",
-     "dep_time": "2026-11-04 13:35",
-     "arr_time": "2026-11-04 18:00",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ1883",
-     "airline": "VJ",
-     "to": "CNX",
-     "dep_time": "2026-11-04 13:25",
-     "arr_time": "2026-11-04 15:30",
-     "status": "active",
-     "delay": 16
+     "delay": 12
     },
     {
      "flight": "VN1394",
      "airline": "VN",
      "to": "UIH",
-     "dep_time": "2026-11-04 13:35",
-     "arr_time": "2026-11-04 14:45",
+     "dep_time": "2026-11-05 13:35",
+     "arr_time": "2026-11-05 14:45",
+     "status": "landed",
+     "delay": 5
+    },
+    {
+     "flight": "VU252",
+     "airline": "VU",
+     "to": "DAD",
+     "dep_time": "2026-11-05 08:45",
+     "arr_time": "2026-11-05 10:10",
      "status": "active",
-     "delay": 10
+     "delay": 299
     },
     {
-     "flight": "VN1833",
-     "airline": "VN",
-     "to": "PQC",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 15:00",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "CA7954",
-     "airline": "CA",
-     "to": "SZX",
-     "dep_time": "2026-11-04 13:50",
-     "arr_time": "2026-11-04 17:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "ZH114",
-     "airline": "ZH",
-     "to": "SZX",
-     "dep_time": "2026-11-04 13:50",
-     "arr_time": "2026-11-04 17:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN214",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 16:10",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "CI8814",
-     "airline": "CI",
-     "to": "HAN",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 16:10",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "K63214",
+     "flight": "K63594",
      "airline": "K6",
-     "to": "HAN",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 16:10",
+     "to": "HKG",
+     "dep_time": "2026-11-05 13:40",
+     "arr_time": "2026-11-05 17:25",
      "status": "active",
-     "delay": null
+     "delay": 5
     },
     {
-     "flight": "VN1266",
+     "flight": "CX6260",
+     "airline": "CX",
+     "to": "HKG",
+     "dep_time": "2026-11-05 13:40",
+     "arr_time": "2026-11-05 17:25",
+     "status": "active",
+     "delay": 5
+    },
+    {
+     "flight": "VN594",
      "airline": "VN",
-     "to": "VII",
-     "dep_time": "2026-11-04 13:55",
-     "arr_time": "2026-11-04 15:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "CI8756",
-     "airline": "CI",
-     "to": "VII",
-     "dep_time": "2026-11-04 13:55",
-     "arr_time": "2026-11-04 15:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "9C7558",
-     "airline": "9C",
-     "to": "PVG",
-     "dep_time": "2026-11-04 13:55",
-     "arr_time": "2026-11-04 19:00",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "CI8992",
-     "airline": "CI",
-     "to": "DAD",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 14:50",
+     "to": "HKG",
+     "dep_time": "2026-11-05 13:40",
+     "arr_time": "2026-11-05 17:25",
      "status": "active",
-     "delay": 29
+     "delay": 5
     },
     {
-     "flight": "K63132",
-     "airline": "K6",
-     "to": "DAD",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 14:50",
+     "flight": "VJ274",
+     "airline": "VJ",
+     "to": "HPH",
+     "dep_time": "2026-11-05 13:05",
+     "arr_time": "2026-11-05 15:05",
      "status": "active",
-     "delay": 29
+     "delay": 41
     },
     {
-     "flight": "VN132",
+     "flight": "VN8097",
      "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 14:50",
-     "status": "active",
-     "delay": 29
-    },
-    {
-     "flight": "KE472",
-     "airline": "KE",
-     "to": "ICN",
-     "dep_time": "2026-11-04 14:05",
-     "arr_time": "2026-11-04 21:15",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "DL7816",
-     "airline": "DL",
-     "to": "ICN",
-     "dep_time": "2026-11-04 14:05",
-     "arr_time": "2026-11-04 21:15",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN3402",
-     "airline": "VN",
-     "to": "ICN",
-     "dep_time": "2026-11-04 14:05",
-     "arr_time": "2026-11-04 21:15",
+     "to": "VCS",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 15:00",
      "status": "active",
      "delay": null
     },
@@ -421,134 +232,314 @@
      "flight": "0V8097",
      "airline": "0V",
      "to": "VCS",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 15:00",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 15:00",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "VN8097",
-     "airline": "VN",
-     "to": "VCS",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 15:00",
+     "flight": "ZH114",
+     "airline": "ZH",
+     "to": "SZX",
+     "dep_time": "2026-11-05 13:50",
+     "arr_time": "2026-11-05 17:35",
+     "status": "active",
+     "delay": 2
+    },
+    {
+     "flight": "CA7954",
+     "airline": "CA",
+     "to": "SZX",
+     "dep_time": "2026-11-05 13:50",
+     "arr_time": "2026-11-05 17:35",
+     "status": "active",
+     "delay": 2
+    },
+    {
+     "flight": "DR5052",
+     "airline": "DR",
+     "to": "LJG",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 18:00",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "BL6044",
-     "airline": "BL",
-     "to": "DAD",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 15:55",
+     "flight": "9C7558",
+     "airline": "9C",
+     "to": "PVG",
+     "dep_time": "2026-11-05 13:55",
+     "arr_time": "2026-11-05 19:00",
      "status": "cancelled",
      "delay": null
     },
     {
-     "flight": "VN1422",
+     "flight": "VN1833",
      "airline": "VN",
-     "to": "PXU",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 15:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN6044",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 15:55",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "9G1975",
-     "airline": "9G",
      "to": "PQC",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 15:30",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 13:55",
+     "arr_time": "2026-11-05 15:00",
+     "status": "active",
+     "delay": 5
+    },
+    {
+     "flight": "VN1266",
+     "airline": "VN",
+     "to": "VII",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 15:45",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "CI8756",
+     "airline": "CI",
+     "to": "VII",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 15:45",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VN3402",
+     "airline": "VN",
+     "to": "ICN",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 21:15",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "KE472",
+     "airline": "KE",
+     "to": "ICN",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 21:15",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "DL7816",
+     "airline": "DL",
+     "to": "ICN",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 21:15",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "BI382",
+     "airline": "BI",
+     "to": "BWN",
+     "dep_time": "2026-11-05 14:05",
+     "arr_time": "2026-11-05 17:00",
+     "status": "active",
+     "delay": 8
+    },
+    {
+     "flight": "VN655",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 17:15",
+     "status": "active",
+     "delay": 6
+    },
+    {
+     "flight": "GA9605",
+     "airline": "GA",
+     "to": "SIN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 17:15",
+     "status": "active",
+     "delay": 6
+    },
+    {
+     "flight": "SQ5355",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 17:15",
+     "status": "active",
+     "delay": 6
+    },
+    {
+     "flight": "EY7311",
+     "airline": "EY",
+     "to": "SIN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 17:15",
+     "status": "active",
+     "delay": 6
+    },
+    {
+     "flight": "VN132",
+     "airline": "VN",
+     "to": "DAD",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 14:50",
+     "status": "active",
+     "delay": 50
+    },
+    {
+     "flight": "CI8992",
+     "airline": "CI",
+     "to": "DAD",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 14:50",
+     "status": "active",
+     "delay": 50
+    },
+    {
+     "flight": "K63132",
+     "airline": "K6",
+     "to": "DAD",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 14:50",
+     "status": "active",
+     "delay": 50
+    },
+    {
+     "flight": "VN3040",
+     "airline": "VN",
+     "to": "SZX",
+     "dep_time": "2026-11-05 14:30",
+     "arr_time": "2026-11-05 18:15",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "CZ8466",
      "airline": "CZ",
      "to": "SZX",
-     "dep_time": "2026-11-04 14:30",
-     "arr_time": "2026-11-04 18:10",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:30",
+     "arr_time": "2026-11-05 18:15",
+     "status": "active",
      "delay": null
     },
     {
-     "flight": "AY6673",
-     "airline": "AY",
-     "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
+     "flight": "VN6044",
+     "airline": "VN",
+     "to": "DAD",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 15:55",
+     "status": "cancelled",
+     "delay": null
+    },
+    {
+     "flight": "BL6044",
+     "airline": "BL",
+     "to": "DAD",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 15:55",
+     "status": "cancelled",
      "delay": null
     },
     {
      "flight": "BA2353",
      "airline": "BA",
      "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
      "delay": null
+    },
+    {
+     "flight": "CI8814",
+     "airline": "CI",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 16:10",
+     "status": "active",
+     "delay": 26
+    },
+    {
+     "flight": "K63214",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 16:10",
+     "status": "active",
+     "delay": 26
     },
     {
      "flight": "AA8259",
      "airline": "AA",
      "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "IB6290",
-     "airline": "IB",
-     "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "QR970",
      "airline": "QR",
      "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
      "delay": null
+    },
+    {
+     "flight": "AY6673",
+     "airline": "AY",
+     "to": "KTI",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VN214",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 16:10",
+     "status": "active",
+     "delay": 26
     },
     {
      "flight": "LA5296",
      "airline": "LA",
      "to": "KTI",
-     "dep_time": "2026-11-04 14:35",
-     "arr_time": "2026-11-04 15:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
      "delay": null
     },
     {
-     "flight": "VJ226",
-     "airline": "VJ",
-     "to": "VII",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:35",
-     "status": "scheduled",
+     "flight": "IB6290",
+     "airline": "IB",
+     "to": "KTI",
+     "dep_time": "2026-11-05 14:35",
+     "arr_time": "2026-11-05 15:25",
+     "status": "active",
      "delay": null
+    },
+    {
+     "flight": "VN1422",
+     "airline": "VN",
+     "to": "PXU",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 15:35",
+     "status": "active",
+     "delay": 11
+    },
+    {
+     "flight": "9G1975",
+     "airline": "9G",
+     "to": "PQC",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 15:30",
+     "status": "active",
+     "delay": 11
     },
     {
      "flight": "VJ146",
      "airline": "VJ",
      "to": "HAN",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:55",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:55",
      "status": "scheduled",
      "delay": null
     },
@@ -556,8 +547,17 @@
      "flight": "VJ262",
      "airline": "VJ",
      "to": "VDH",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:20",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:20",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ226",
+     "airline": "VJ",
+     "to": "VII",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:35",
      "status": "scheduled",
      "delay": null
     },
@@ -565,17 +565,17 @@
      "flight": "K63250",
      "airline": "K6",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 17:10",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VJ152",
-     "airline": "VJ",
+     "flight": "JL5757",
+     "airline": "JL",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 17:10",
      "status": "scheduled",
      "delay": null
     },
@@ -583,44 +583,17 @@
      "flight": "VN250",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 17:10",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "JL5757",
-     "airline": "JL",
+     "flight": "VJ152",
+     "airline": "VJ",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN8087",
-     "airline": "VN",
-     "to": "VCS",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 16:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ876",
-     "airline": "VJ",
-     "to": "HKG",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ600",
-     "airline": "VJ",
-     "to": "CXR",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 16:15",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 17:10",
      "status": "scheduled",
      "delay": null
     },
@@ -628,8 +601,26 @@
      "flight": "0V8087",
      "airline": "0V",
      "to": "VCS",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 16:10",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 16:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ600",
+     "airline": "VJ",
+     "to": "CXR",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 16:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN8087",
+     "airline": "VN",
+     "to": "VCS",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 16:10",
      "status": "scheduled",
      "delay": null
     },
@@ -637,44 +628,35 @@
      "flight": "VN134",
      "airline": "VN",
      "to": "DAD",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:35",
-     "status": "cancelled",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:35",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "CI9074",
      "airline": "CI",
      "to": "DAD",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:35",
-     "status": "cancelled",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:35",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "VN1829",
      "airline": "VN",
      "to": "PQC",
-     "dep_time": "2026-11-04 15:20",
-     "arr_time": "2026-11-04 16:20",
+     "dep_time": "2026-11-05 15:20",
+     "arr_time": "2026-11-05 16:20",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "PR598",
-     "airline": "PR",
-     "to": "MNL",
-     "dep_time": "2026-11-04 15:30",
-     "arr_time": "2026-11-04 19:20",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN3942",
+     "flight": "VN791",
      "airline": "VN",
-     "to": "MNL",
-     "dep_time": "2026-11-04 15:30",
-     "arr_time": "2026-11-04 19:20",
+     "to": "PER",
+     "dep_time": "2026-11-05 15:20",
+     "arr_time": "2026-11-05 22:30",
      "status": "scheduled",
      "delay": null
     },
@@ -682,26 +664,8 @@
      "flight": "VN232",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:30",
-     "arr_time": "2026-11-04 17:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN1374",
-     "airline": "VN",
-     "to": "HUI",
-     "dep_time": "2026-11-04 15:35",
-     "arr_time": "2026-11-04 17:05",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "TK9468",
-     "airline": "TK",
-     "to": "TPE",
-     "dep_time": "2026-11-04 15:35",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 15:30",
+     "arr_time": "2026-11-05 17:40",
      "status": "scheduled",
      "delay": null
     },
@@ -709,8 +673,26 @@
      "flight": "BR396",
      "airline": "BR",
      "to": "TPE",
-     "dep_time": "2026-11-04 15:35",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 15:35",
+     "arr_time": "2026-11-05 19:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "TK9468",
+     "airline": "TK",
+     "to": "TPE",
+     "dep_time": "2026-11-05 15:35",
+     "arr_time": "2026-11-05 19:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN1374",
+     "airline": "VN",
+     "to": "HUI",
+     "dep_time": "2026-11-05 15:35",
+     "arr_time": "2026-11-05 17:05",
      "status": "scheduled",
      "delay": null
     },
@@ -718,8 +700,53 @@
      "flight": "9G400",
      "airline": "9G",
      "to": "ICN",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 22:40",
+     "dep_time": "2026-11-05 15:40",
+     "arr_time": "2026-11-05 22:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AF3301",
+     "airline": "AF",
+     "to": "KUL",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G978",
+     "airline": "9G",
+     "to": "DAD",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AC5939",
+     "airline": "AC",
+     "to": "SIN",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "SQ8539",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "SV6032",
+     "airline": "SV",
+     "to": "KUL",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
      "status": "scheduled",
      "delay": null
     },
@@ -727,44 +754,8 @@
      "flight": "VN679",
      "airline": "VN",
      "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "EY7309",
-     "airline": "EY",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AF3301",
-     "airline": "AF",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AC5939",
-     "airline": "AC",
-     "to": "SIN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "SQ8539",
-     "airline": "SQ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
      "status": "scheduled",
      "delay": null
     },
@@ -772,26 +763,17 @@
      "flight": "TR553",
      "airline": "TR",
      "to": "SIN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "SV6032",
-     "airline": "SV",
+     "flight": "EY7309",
+     "airline": "EY",
      "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "K63920",
-     "airline": "K6",
-     "to": "KTI",
-     "dep_time": "2026-11-04 15:50",
-     "arr_time": "2026-11-04 16:40",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:50",
      "status": "scheduled",
      "delay": null
     },
@@ -799,17 +781,17 @@
      "flight": "VN1468",
      "airline": "VN",
      "to": "VCL",
-     "dep_time": "2026-11-04 15:50",
-     "arr_time": "2026-11-04 17:15",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:15",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VN920",
-     "airline": "VN",
+     "flight": "K63920",
+     "airline": "K6",
      "to": "KTI",
-     "dep_time": "2026-11-04 15:50",
-     "arr_time": "2026-11-04 16:40",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 16:40",
      "status": "scheduled",
      "delay": null
     },
@@ -817,35 +799,17 @@
      "flight": "AF4137",
      "airline": "AF",
      "to": "VCL",
-     "dep_time": "2026-11-04 15:50",
-     "arr_time": "2026-11-04 17:15",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:15",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VJ325",
-     "airline": "VJ",
-     "to": "PQC",
-     "dep_time": "2026-11-04 15:50",
-     "arr_time": "2026-11-04 16:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ394",
-     "airline": "VJ",
-     "to": "PXU",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:05",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ228",
-     "airline": "VJ",
-     "to": "VII",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:45",
+     "flight": "VN920",
+     "airline": "VN",
+     "to": "KTI",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 16:40",
      "status": "scheduled",
      "delay": null
     },
@@ -853,17 +817,8 @@
      "flight": "CI8786",
      "airline": "CI",
      "to": "CXR",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:05",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN1346",
-     "airline": "VN",
-     "to": "CXR",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:05",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:05",
      "status": "scheduled",
      "delay": null
     },
@@ -871,26 +826,35 @@
      "flight": "VJ1312",
      "airline": "VJ",
      "to": "HUI",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:20",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VN216",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 18:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ5018",
+     "flight": "VJ228",
      "airline": "VJ",
-     "to": "PKX",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 22:00",
+     "to": "VII",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN1346",
+     "airline": "VN",
+     "to": "CXR",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:05",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ358",
+     "airline": "VJ",
+     "to": "BMV",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
     },
@@ -898,8 +862,17 @@
      "flight": "VJ1831",
      "airline": "VJ",
      "to": "VTE",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 18:00",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G854",
+     "airline": "9G",
+     "to": "HAN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:10",
      "status": "scheduled",
      "delay": null
     },
@@ -907,19 +880,352 @@
      "flight": "K6823",
      "airline": "K6",
      "to": "SAI",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 17:15",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 17:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN216",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K63216",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ5018",
+     "airline": "VJ",
+     "to": "PKX",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 22:00",
      "status": "scheduled",
      "delay": null
     }
    ],
    "aviationstack": [
     {
+     "flight": "GA9941",
+     "airline": "GA",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "K63657",
+     "airline": "K6",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "SV6827",
+     "airline": "SV",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "SQ5357",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "EY7312",
+     "airline": "EY",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "0V8097",
+     "airline": "0V",
+     "to": "VCS",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 15:00",
+     "status": "active",
+     "delay": 1
+    },
+    {
+     "flight": "VN3582",
+     "airline": "VN",
+     "to": "TPE",
+     "dep_time": "2026-11-05 17:15",
+     "arr_time": "2026-11-05 21:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "CI9570",
+     "airline": "CI",
+     "to": "TPE",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 21:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN781",
+     "airline": "VN",
+     "to": "MEL",
+     "dep_time": "2026-11-05 21:05",
+     "arr_time": "2026-11-06 09:25",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN260",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-05 23:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ337",
+     "airline": "VJ",
+     "to": "PQC",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-05 22:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AI2389",
+     "airline": "AI",
+     "to": "DEL",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-06 01:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G880",
+     "airline": "9G",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:45",
+     "arr_time": "2026-11-05 22:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G990",
+     "airline": "9G",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:40",
+     "arr_time": "2026-11-05 22:05",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN1835",
+     "airline": "VN",
+     "to": "PQC",
+     "dep_time": "2026-11-05 20:40",
+     "arr_time": "2026-11-05 21:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN1188",
+     "airline": "VN",
+     "to": "HPH",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 22:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN1376",
+     "airline": "VN",
+     "to": "HUI",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 22:00",
+     "status": "cancelled",
+     "delay": null
+    },
+    {
+     "flight": "VN256",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 22:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AK525",
+     "airline": "AK",
+     "to": "KUL",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 23:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "8M453",
+     "airline": "8M",
+     "to": "RGN",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K6829",
+     "airline": "K6",
+     "to": "SAI",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 21:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ632",
+     "airline": "VJ",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:10",
+     "arr_time": "2026-11-05 21:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "TG557",
+     "airline": "TG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 20:10",
+     "arr_time": "2026-11-05 21:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "H12184",
+     "airline": "H1",
+     "to": "PQC",
+     "dep_time": "2026-11-05 20:00",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A14327",
+     "airline": "A1",
+     "to": "PQC",
+     "dep_time": "2026-11-05 20:00",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W23327",
+     "airline": "W2",
+     "to": "PQC",
+     "dep_time": "2026-11-05 20:00",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W16075",
+     "airline": "W1",
+     "to": "PQC",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 20:50",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CI9026",
+     "airline": "CI",
+     "to": "KHH",
+     "dep_time": "2026-11-05 17:45",
+     "arr_time": "2026-11-05 21:45",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W16203",
+     "airline": "W1",
+     "to": "DAD",
+     "dep_time": "2026-11-05 18:50",
+     "arr_time": "2026-11-05 20:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CI8780",
+     "airline": "CI",
+     "to": "CXR",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 20:55",
+     "status": "cancelled",
+     "delay": null
+    },
+    {
+     "flight": "K63815",
+     "airline": "K6",
+     "to": "SAI",
+     "dep_time": "2026-11-05 19:30",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN3637",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VA5493",
+     "airline": "VA",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "NZ3463",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
      "flight": "LH7221",
      "airline": "LH",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:10",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:30",
      "status": "scheduled",
      "delay": 0
     },
@@ -927,8 +1233,44 @@
      "flight": "AI8255",
      "airline": "AI",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:10",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN3502",
+     "airline": "VN",
+     "to": "CAN",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 20:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "3U7050",
+     "airline": "3U",
+     "to": "CAN",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 20:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "K63216",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:10",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "H17259",
+     "airline": "H1",
+     "to": "PKX",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 22:00",
      "status": "scheduled",
      "delay": 0
     },
@@ -936,53 +1278,26 @@
      "flight": "BL6442",
      "airline": "BL",
      "to": "HPH",
-     "dep_time": "2026-11-04 13:10",
-     "arr_time": "2026-11-04 15:20",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 15:20",
      "status": "active",
-     "delay": 24
+     "delay": 16
     },
     {
-     "flight": "AF9202",
-     "airline": "AF",
-     "to": "BMV",
-     "dep_time": "2026-11-04 18:10",
-     "arr_time": "2026-11-04 19:10",
+     "flight": "VJ5010",
+     "airline": "VJ",
+     "to": "PVG",
+     "dep_time": "2026-11-05 20:05",
+     "arr_time": "2026-11-06 01:00",
      "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "H14461",
-     "airline": "H1",
-     "to": "VCL",
-     "dep_time": "2026-11-04 17:50",
-     "arr_time": "2026-11-04 19:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W24372",
-     "airline": "W2",
-     "to": "VCL",
-     "dep_time": "2026-11-04 17:50",
-     "arr_time": "2026-11-04 19:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12372",
-     "airline": "A1",
-     "to": "VCL",
-     "dep_time": "2026-11-04 17:50",
-     "arr_time": "2026-11-04 19:10",
-     "status": "scheduled",
-     "delay": 0
+     "delay": null
     },
     {
      "flight": "VJ156",
      "airline": "VJ",
      "to": "HAN",
-     "dep_time": "2026-11-04 20:05",
-     "arr_time": "2026-11-04 22:15",
+     "dep_time": "2026-11-05 20:05",
+     "arr_time": "2026-11-05 22:15",
      "status": "scheduled",
      "delay": null
     },
@@ -990,8 +1305,17 @@
      "flight": "VN220",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 20:00",
-     "arr_time": "2026-11-04 22:10",
+     "dep_time": "2026-11-05 20:00",
+     "arr_time": "2026-11-05 22:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ1327",
+     "airline": "VJ",
+     "to": "PQC",
+     "dep_time": "2026-11-05 20:00",
+     "arr_time": "2026-11-05 21:00",
      "status": "scheduled",
      "delay": null
     },
@@ -999,8 +1323,8 @@
      "flight": "SQ185",
      "airline": "SQ",
      "to": "SIN",
-     "dep_time": "2026-11-04 19:55",
-     "arr_time": "2026-11-04 22:55",
+     "dep_time": "2026-11-05 19:55",
+     "arr_time": "2026-11-05 22:55",
      "status": "scheduled",
      "delay": null
     },
@@ -1008,17 +1332,26 @@
      "flight": "VN1350",
      "airline": "VN",
      "to": "CXR",
-     "dep_time": "2026-11-04 19:50",
-     "arr_time": "2026-11-04 20:55",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 20:55",
+     "status": "cancelled",
      "delay": null
     },
     {
      "flight": "VN146",
      "airline": "VN",
      "to": "DAD",
-     "dep_time": "2026-11-04 19:50",
-     "arr_time": "2026-11-04 21:10",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 21:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G1987",
+     "airline": "9G",
+     "to": "PQC",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 20:50",
      "status": "scheduled",
      "delay": null
     },
@@ -1026,341 +1359,8 @@
      "flight": "CX764",
      "airline": "CX",
      "to": "HKG",
-     "dep_time": "2026-11-04 19:45",
-     "arr_time": "2026-11-04 23:25",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "QR971",
-     "airline": "QR",
-     "to": "DOH",
-     "dep_time": "2026-11-04 19:40",
-     "arr_time": "2026-11-04 23:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN262",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:35",
-     "arr_time": "2026-11-04 21:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ5010",
-     "airline": "VJ",
-     "to": "PVG",
-     "dep_time": "2026-11-04 19:35",
-     "arr_time": "2026-11-05 00:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ314",
-     "airline": "VJ",
-     "to": "HUI",
-     "dep_time": "2026-11-04 19:35",
-     "arr_time": "2026-11-04 21:00",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN815",
-     "airline": "VN",
-     "to": "SAI",
-     "dep_time": "2026-11-04 19:30",
-     "arr_time": "2026-11-04 20:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ224",
-     "airline": "VJ",
-     "to": "VII",
-     "dep_time": "2026-11-04 19:20",
-     "arr_time": "2026-11-04 21:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ1801",
-     "airline": "VJ",
-     "to": "BLR",
-     "dep_time": "2026-11-04 19:15",
-     "arr_time": "2026-11-04 22:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ280",
-     "airline": "VJ",
-     "to": "HPH",
-     "dep_time": "2026-11-04 19:15",
-     "arr_time": "2026-11-04 21:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ168",
-     "airline": "VJ",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:15",
-     "arr_time": "2026-11-04 21:25",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN6158",
-     "airline": "VN",
-     "to": "CXR",
-     "dep_time": "2026-11-04 19:10",
-     "arr_time": "2026-11-04 20:20",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "K6819",
-     "airline": "K6",
-     "to": "KTI",
-     "dep_time": "2026-11-04 19:10",
-     "arr_time": "2026-11-04 20:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "W16043",
-     "airline": "W1",
-     "to": "HPH",
-     "dep_time": "2026-11-04 18:00",
-     "arr_time": "2026-11-04 20:00",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AF4136",
-     "airline": "AF",
-     "to": "HPH",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 19:20",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "K63679",
-     "airline": "K6",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "SV6032",
-     "airline": "SV",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "EY7309",
-     "airline": "EY",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "AF3301",
-     "airline": "AF",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "SQ8539",
-     "airline": "SQ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "AC5939",
-     "airline": "AC",
-     "to": "SIN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W16090",
-     "airline": "W1",
-     "to": "ICN",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 22:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "W24152",
-     "airline": "W2",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12152",
-     "airline": "A1",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "H17201",
-     "airline": "H1",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "JL5757",
-     "airline": "JL",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "K63250",
-     "airline": "K6",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "0V8089",
-     "airline": "0V",
-     "to": "VCS",
-     "dep_time": "2026-11-04 12:05",
-     "arr_time": "2026-11-04 13:05",
-     "status": "active",
-     "delay": 0
-    },
-    {
-     "flight": "BL6010",
-     "airline": "BL",
-     "to": "HAN",
-     "dep_time": "2026-11-04 12:15",
-     "arr_time": "2026-11-04 14:25",
-     "status": "active",
-     "delay": 9
-    },
-    {
-     "flight": "TK9468",
-     "airline": "TK",
-     "to": "TPE",
-     "dep_time": "2026-11-04 15:35",
-     "arr_time": "2026-11-04 19:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN142",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:25",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "VJ144",
-     "airline": "VJ",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 21:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ895",
-     "airline": "VJ",
-     "to": "DEL",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 22:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN258",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 21:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "MH767",
-     "airline": "MH",
-     "to": "KUL",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 22:00",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "9C7348",
-     "airline": "9C",
-     "to": "CAN",
-     "dep_time": "2026-11-04 18:55",
-     "arr_time": "2026-11-04 23:00",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN6054",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 20:20",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ1805",
-     "airline": "VJ",
-     "to": "AMD",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 22:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "9G986",
-     "airline": "9G",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 19:45",
+     "arr_time": "2026-11-05 23:25",
      "status": "scheduled",
      "delay": null
     }
@@ -1379,209 +1379,11 @@
    },
    "airlabs": [
     {
-     "flight": "VJ901",
-     "airline": "VJ",
-     "to": "BKK",
-     "dep_time": "2026-11-04 12:15",
-     "arr_time": "2026-11-04 14:05",
-     "status": "landed",
-     "delay": 1
-    },
-    {
-     "flight": "CA704",
-     "airline": "CA",
-     "to": "PVG",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 16:30",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "KE442",
-     "airline": "KE",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 18:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "AS7812",
-     "airline": "AS",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 18:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "DL7806",
-     "airline": "DL",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 18:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN3412",
-     "airline": "VN",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 18:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "WS6068",
-     "airline": "WS",
-     "to": "ICN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 18:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VJ441",
-     "airline": "VJ",
-     "to": "PQC",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 14:30",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "FD641",
-     "airline": "FD",
-     "to": "DMK",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 14:15",
-     "status": "active",
-     "delay": 4
-    },
-    {
-     "flight": "BR398",
-     "airline": "BR",
-     "to": "TPE",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 16:10",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "TK9470",
-     "airline": "TK",
-     "to": "TPE",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 16:10",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "LY8246",
-     "airline": "LY",
-     "to": "BKK",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:45",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN615",
-     "airline": "VN",
-     "to": "BKK",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:45",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "PG4284",
-     "airline": "PG",
-     "to": "BKK",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:45",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "K63931",
-     "airline": "K6",
-     "to": "LPQ",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 13:50",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "VN931",
-     "airline": "VN",
-     "to": "LPQ",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 13:50",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "CZ7951",
-     "airline": "CZ",
-     "to": "CAN",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 15:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN506",
-     "airline": "VN",
-     "to": "CAN",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 15:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VU1213",
-     "airline": "VU",
-     "to": "BMV",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 14:30",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "MF9021",
-     "airline": "MF",
-     "to": "CAN",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 15:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN3681",
-     "airline": "VN",
+     "flight": "ET1335",
+     "airline": "ET",
      "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "NZ3459",
-     "airline": "NZ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "SQ191",
-     "airline": "SQ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
      "status": "active",
      "delay": null
     },
@@ -1589,26 +1391,8 @@
      "flight": "AI8157",
      "airline": "AI",
      "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VA5491",
-     "airline": "VA",
-     "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "ET1335",
-     "airline": "ET",
-     "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
      "status": "active",
      "delay": null
     },
@@ -1616,8 +1400,80 @@
      "flight": "TK9341",
      "airline": "TK",
      "to": "SIN",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "NZ3459",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VN3681",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "SQ191",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VA5491",
+     "airline": "VA",
+     "to": "SIN",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 17:20",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VJ441",
+     "airline": "VJ",
+     "to": "PQC",
+     "dep_time": "2026-11-05 12:50",
+     "arr_time": "2026-11-05 14:55",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VN1559",
+     "airline": "VN",
+     "to": "CXR",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CI8773",
+     "airline": "CI",
+     "to": "CXR",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "HO1318",
+     "airline": "HO",
+     "to": "PVG",
+     "dep_time": "2026-11-05 13:15",
+     "arr_time": "2026-11-05 17:20",
      "status": "active",
      "delay": null
     },
@@ -1625,125 +1481,170 @@
      "flight": "9G841",
      "airline": "9G",
      "to": "SGN",
-     "dep_time": "2026-11-04 12:50",
-     "arr_time": "2026-11-04 15:00",
+     "dep_time": "2026-11-05 12:50",
+     "arr_time": "2026-11-05 15:00",
      "status": "active",
-     "delay": null
+     "delay": 13
     },
     {
-     "flight": "K63171",
-     "airline": "K6",
-     "to": "DAD",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 14:10",
-     "status": "landed",
-     "delay": 5
+     "flight": "PG4284",
+     "airline": "PG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 12:35",
+     "arr_time": "2026-11-05 14:45",
+     "status": "active",
+     "delay": 29
+    },
+    {
+     "flight": "VN615",
+     "airline": "VN",
+     "to": "BKK",
+     "dep_time": "2026-11-05 12:35",
+     "arr_time": "2026-11-05 14:45",
+     "status": "active",
+     "delay": 29
+    },
+    {
+     "flight": "LY8246",
+     "airline": "LY",
+     "to": "BKK",
+     "dep_time": "2026-11-05 12:35",
+     "arr_time": "2026-11-05 14:45",
+     "status": "active",
+     "delay": 29
     },
     {
      "flight": "VN171",
      "airline": "VN",
      "to": "DAD",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 14:10",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 14:10",
      "status": "landed",
-     "delay": 5
+     "delay": 22
+    },
+    {
+     "flight": "K63171",
+     "airline": "K6",
+     "to": "DAD",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 14:10",
+     "status": "landed",
+     "delay": 22
     },
     {
      "flight": "CI8861",
      "airline": "CI",
      "to": "DAD",
-     "dep_time": "2026-11-04 12:45",
-     "arr_time": "2026-11-04 14:10",
+     "dep_time": "2026-11-05 12:45",
+     "arr_time": "2026-11-05 14:10",
      "status": "landed",
-     "delay": 5
+     "delay": 22
     },
     {
-     "flight": "HO1318",
-     "airline": "HO",
-     "to": "PVG",
-     "dep_time": "2026-11-04 13:15",
-     "arr_time": "2026-11-04 17:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "6E3774",
-     "airline": "6E",
+     "flight": "EY5620",
+     "airline": "EY",
      "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 17:00",
      "status": "active",
-     "delay": 3
+     "delay": 30
     },
     {
-     "flight": "MH753",
-     "airline": "MH",
+     "flight": "OD572",
+     "airline": "OD",
      "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 17:00",
      "status": "active",
-     "delay": 3
+     "delay": 30
     },
     {
-     "flight": "KL3967",
-     "airline": "KL",
-     "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
-     "status": "active",
-     "delay": 3
+     "flight": "VN931",
+     "airline": "VN",
+     "to": "LPQ",
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 13:50",
+     "status": "landed",
+     "delay": 32
     },
     {
-     "flight": "QR5449",
-     "airline": "QR",
-     "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
-     "status": "active",
-     "delay": 3
-    },
-    {
-     "flight": "UL2753",
-     "airline": "UL",
-     "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
-     "status": "active",
-     "delay": 3
+     "flight": "K63931",
+     "airline": "K6",
+     "to": "LPQ",
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 13:50",
+     "status": "landed",
+     "delay": 32
     },
     {
      "flight": "WY5624",
      "airline": "WY",
      "to": "KUL",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 17:40",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
      "status": "active",
-     "delay": 3
+     "delay": 13
     },
     {
-     "flight": "CI8813",
-     "airline": "CI",
-     "to": "SGN",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:15",
+     "flight": "MH753",
+     "airline": "MH",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
      "status": "active",
-     "delay": 9
+     "delay": 13
     },
     {
-     "flight": "VN213",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:15",
+     "flight": "UL2753",
+     "airline": "UL",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
      "status": "active",
-     "delay": 9
+     "delay": 13
+    },
+    {
+     "flight": "KL3967",
+     "airline": "KL",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
+     "status": "active",
+     "delay": 13
+    },
+    {
+     "flight": "QR5449",
+     "airline": "QR",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
+     "status": "active",
+     "delay": 13
+    },
+    {
+     "flight": "6E3774",
+     "airline": "6E",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 17:40",
+     "status": "active",
+     "delay": 13
+    },
+    {
+     "flight": "9G1227",
+     "airline": "9G",
+     "to": "PQC",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:05",
+     "status": "active",
+     "delay": 22
     },
     {
      "flight": "ZH2000",
      "airline": "ZH",
      "to": "PEK",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 18:15",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 18:15",
      "status": "active",
      "delay": null
     },
@@ -1751,62 +1652,8 @@
      "flight": "CA742",
      "airline": "CA",
      "to": "PEK",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 18:15",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VJ143",
-     "airline": "VJ",
-     "to": "SGN",
-     "dep_time": "2026-11-04 13:20",
-     "arr_time": "2026-11-04 15:30",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "9G1227",
-     "airline": "9G",
-     "to": "PQC",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 15:05",
-     "status": "active",
-     "delay": 20
-    },
-    {
-     "flight": "OZ730",
-     "airline": "OZ",
-     "to": "ICN",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 19:35",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VJ523",
-     "airline": "VJ",
-     "to": "DAD",
-     "dep_time": "2026-11-04 13:35",
-     "arr_time": "2026-11-04 14:55",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "ZH122",
-     "airline": "ZH",
-     "to": "CAN",
-     "dep_time": "2026-11-04 13:45",
-     "arr_time": "2026-11-04 16:30",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "CA7982",
-     "airline": "CA",
-     "to": "CAN",
-     "dep_time": "2026-11-04 13:45",
-     "arr_time": "2026-11-04 16:30",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 18:15",
      "status": "active",
      "delay": null
     },
@@ -1814,116 +1661,179 @@
      "flight": "VJ948",
      "airline": "VJ",
      "to": "RMQ",
-     "dep_time": "2026-11-04 13:30",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 17:00",
+     "status": "active",
+     "delay": 1
+    },
+    {
+     "flight": "VJ187",
+     "airline": "VJ",
+     "to": "SGN",
+     "dep_time": "2026-11-05 13:10",
+     "arr_time": "2026-11-05 15:20",
+     "status": "active",
+     "delay": 23
+    },
+    {
+     "flight": "OZ730",
+     "airline": "OZ",
+     "to": "ICN",
+     "dep_time": "2026-11-05 13:30",
+     "arr_time": "2026-11-05 19:35",
+     "status": "active",
+     "delay": 4
+    },
+    {
+     "flight": "VJ523",
+     "airline": "VJ",
+     "to": "DAD",
+     "dep_time": "2026-11-05 13:35",
+     "arr_time": "2026-11-05 14:55",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "BR398",
+     "airline": "BR",
+     "to": "TPE",
+     "dep_time": "2026-11-05 12:35",
+     "arr_time": "2026-11-05 16:10",
+     "status": "active",
+     "delay": 60
+    },
+    {
+     "flight": "TK9470",
+     "airline": "TK",
+     "to": "TPE",
+     "dep_time": "2026-11-05 12:35",
+     "arr_time": "2026-11-05 16:10",
+     "status": "active",
+     "delay": 60
+    },
+    {
+     "flight": "VJ143",
+     "airline": "VJ",
+     "to": "SGN",
+     "dep_time": "2026-11-05 13:20",
+     "arr_time": "2026-11-05 15:30",
      "status": "active",
      "delay": 20
+    },
+    {
+     "flight": "ZH122",
+     "airline": "ZH",
+     "to": "CAN",
+     "dep_time": "2026-11-05 13:45",
+     "arr_time": "2026-11-05 16:30",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "CA7982",
+     "airline": "CA",
+     "to": "CAN",
+     "dep_time": "2026-11-05 13:45",
+     "arr_time": "2026-11-05 16:30",
+     "status": "active",
+     "delay": null
+    },
+    {
+     "flight": "VJ1781",
+     "airline": "VJ",
+     "to": "CXR",
+     "dep_time": "2026-11-05 13:50",
+     "arr_time": "2026-11-05 15:40",
+     "status": "active",
+     "delay": null
     },
     {
      "flight": "9G925",
      "airline": "9G",
      "to": "DAD",
-     "dep_time": "2026-11-04 13:55",
-     "arr_time": "2026-11-04 15:15",
+     "dep_time": "2026-11-05 13:55",
+     "arr_time": "2026-11-05 15:15",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "VN253",
+     "flight": "VN251",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 16:15",
+     "dep_time": "2026-11-05 12:00",
+     "arr_time": "2026-11-05 14:15",
      "status": "active",
-     "delay": null
+     "delay": 120
     },
     {
-     "flight": "K63253",
-     "airline": "K6",
+     "flight": "CI8831",
+     "airline": "CI",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:00",
-     "arr_time": "2026-11-04 16:15",
+     "dep_time": "2026-11-05 12:00",
+     "arr_time": "2026-11-05 14:15",
      "status": "active",
-     "delay": null
+     "delay": 120
     },
     {
-     "flight": "VJ159",
-     "airline": "VJ",
-     "to": "SGN",
-     "dep_time": "2026-11-04 14:15",
-     "arr_time": "2026-11-04 16:25",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN1804",
+     "flight": "VN159",
      "airline": "VN",
-     "to": "DIN",
-     "dep_time": "2026-11-04 14:20",
-     "arr_time": "2026-11-04 15:20",
-     "status": "scheduled",
-     "delay": null
+     "to": "DAD",
+     "dep_time": "2026-11-05 12:00",
+     "arr_time": "2026-11-05 13:25",
+     "status": "active",
+     "delay": 11
+    },
+    {
+     "flight": "VN213",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:15",
+     "status": "active",
+     "delay": 80
+    },
+    {
+     "flight": "CI8813",
+     "airline": "CI",
+     "to": "SGN",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 15:15",
+     "status": "active",
+     "delay": 80
     },
     {
      "flight": "9G845",
      "airline": "9G",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:30",
-     "arr_time": "2026-11-04 16:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN175",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 16:05",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:30",
+     "arr_time": "2026-11-05 16:40",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "VN3042",
      "airline": "VN",
      "to": "SZX",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 17:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:40",
+     "arr_time": "2026-11-05 17:25",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "CZ8084",
      "airline": "CZ",
      "to": "SZX",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 17:25",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:40",
+     "arr_time": "2026-11-05 17:25",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "VJ129",
      "airline": "VJ",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 16:50",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "SV6031",
-     "airline": "SV",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:50",
-     "arr_time": "2026-11-04 19:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AF4135",
-     "airline": "AF",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:50",
-     "arr_time": "2026-11-04 19:10",
+     "dep_time": "2026-11-05 14:40",
+     "arr_time": "2026-11-05 16:50",
      "status": "scheduled",
      "delay": null
     },
@@ -1931,35 +1841,35 @@
      "flight": "VN681",
      "airline": "VN",
      "to": "KUL",
-     "dep_time": "2026-11-04 14:50",
-     "arr_time": "2026-11-04 19:10",
+     "dep_time": "2026-11-05 14:50",
+     "arr_time": "2026-11-05 19:10",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "CA7914",
-     "airline": "CA",
-     "to": "SZX",
-     "dep_time": "2026-11-04 14:55",
-     "arr_time": "2026-11-04 17:45",
+     "flight": "SV6031",
+     "airline": "SV",
+     "to": "KUL",
+     "dep_time": "2026-11-05 14:50",
+     "arr_time": "2026-11-05 19:10",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "ZH104",
-     "airline": "ZH",
-     "to": "SZX",
-     "dep_time": "2026-11-04 14:55",
-     "arr_time": "2026-11-04 17:45",
+     "flight": "VN1804",
+     "airline": "VN",
+     "to": "DIN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 15:10",
      "status": "scheduled",
-     "delay": null
+     "delay": 40
     },
     {
-     "flight": "VJ403",
-     "airline": "VJ",
-     "to": "DLI",
-     "dep_time": "2026-11-04 14:55",
-     "arr_time": "2026-11-04 16:45",
+     "flight": "AF4135",
+     "airline": "AF",
+     "to": "KUL",
+     "dep_time": "2026-11-05 14:50",
+     "arr_time": "2026-11-05 19:10",
      "status": "scheduled",
      "delay": null
     },
@@ -1967,26 +1877,53 @@
      "flight": "AK513",
      "airline": "AK",
      "to": "KUL",
-     "dep_time": "2026-11-04 14:50",
-     "arr_time": "2026-11-04 19:15",
+     "dep_time": "2026-11-05 14:50",
+     "arr_time": "2026-11-05 19:15",
      "status": "scheduled",
-     "delay": 6
+     "delay": 3
+    },
+    {
+     "flight": "ZH104",
+     "airline": "ZH",
+     "to": "SZX",
+     "dep_time": "2026-11-05 14:55",
+     "arr_time": "2026-11-05 17:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CA7914",
+     "airline": "CA",
+     "to": "SZX",
+     "dep_time": "2026-11-05 14:55",
+     "arr_time": "2026-11-05 17:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN7573",
+     "airline": "VN",
+     "to": "DLI",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 16:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN253",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 16:15",
+     "status": "scheduled",
+     "delay": 60
     },
     {
      "flight": "VN215",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 15:00",
-     "arr_time": "2026-11-04 17:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN6011",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 15:05",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 15:00",
+     "arr_time": "2026-11-05 17:15",
      "status": "scheduled",
      "delay": null
     },
@@ -1994,8 +1931,8 @@
      "flight": "BL6011",
      "airline": "BL",
      "to": "SGN",
-     "dep_time": "2026-11-04 15:05",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 15:05",
+     "arr_time": "2026-11-05 17:20",
      "status": "scheduled",
      "delay": null
     },
@@ -2003,8 +1940,17 @@
      "flight": "VJ511",
      "airline": "VJ",
      "to": "DAD",
-     "dep_time": "2026-11-04 15:05",
-     "arr_time": "2026-11-04 16:25",
+     "dep_time": "2026-11-05 15:05",
+     "arr_time": "2026-11-05 16:25",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN6011",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 15:05",
+     "arr_time": "2026-11-05 17:20",
      "status": "scheduled",
      "delay": null
     },
@@ -2012,17 +1958,8 @@
      "flight": "MU6012",
      "airline": "MU",
      "to": "PVG",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 19:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN3552",
-     "airline": "VN",
-     "to": "PVG",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 19:10",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 19:10",
      "status": "scheduled",
      "delay": null
     },
@@ -2030,26 +1967,17 @@
      "flight": "VJ465",
      "airline": "VJ",
      "to": "VCA",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 17:20",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 17:20",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VN837",
+     "flight": "VN3552",
      "airline": "VN",
-     "to": "SAI",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "NH9738",
-     "airline": "NH",
-     "to": "SAI",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:55",
+     "to": "PVG",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 19:10",
      "status": "scheduled",
      "delay": null
     },
@@ -2057,8 +1985,17 @@
      "flight": "AF3320",
      "airline": "AF",
      "to": "SAI",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:55",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN837",
+     "airline": "VN",
+     "to": "SAI",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:55",
      "status": "scheduled",
      "delay": null
     },
@@ -2066,44 +2003,17 @@
      "flight": "K63837",
      "airline": "K6",
      "to": "SAI",
-     "dep_time": "2026-11-04 15:15",
-     "arr_time": "2026-11-04 16:55",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:55",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "FD871",
-     "airline": "FD",
-     "to": "CNX",
-     "dep_time": "2026-11-04 15:20",
-     "arr_time": "2026-11-04 17:00",
-     "status": "scheduled",
-     "delay": 6
-    },
-    {
-     "flight": "GA9943",
-     "airline": "GA",
-     "to": "SGN",
-     "dep_time": "2026-11-04 15:30",
-     "arr_time": "2026-11-04 17:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN249",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 15:30",
-     "arr_time": "2026-11-04 17:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN3532",
-     "airline": "VN",
-     "to": "XMN",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 18:40",
+     "flight": "NH9738",
+     "airline": "NH",
+     "to": "SAI",
+     "dep_time": "2026-11-05 15:15",
+     "arr_time": "2026-11-05 16:55",
      "status": "scheduled",
      "delay": null
     },
@@ -2111,17 +2021,44 @@
      "flight": "9G1233",
      "airline": "9G",
      "to": "PQC",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 17:45",
+     "dep_time": "2026-11-05 15:25",
+     "arr_time": "2026-11-05 17:30",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "JX716",
-     "airline": "JX",
-     "to": "TPE",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 19:20",
+     "flight": "VN249",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 15:30",
+     "arr_time": "2026-11-05 17:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "GA9943",
+     "airline": "GA",
+     "to": "SGN",
+     "dep_time": "2026-11-05 15:30",
+     "arr_time": "2026-11-05 17:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "PR594",
+     "airline": "PR",
+     "to": "MNL",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 18:40",
+     "status": "scheduled",
+     "delay": 75
+    },
+    {
+     "flight": "MF860",
+     "airline": "MF",
+     "to": "XMN",
+     "dep_time": "2026-11-05 15:40",
+     "arr_time": "2026-11-05 18:40",
      "status": "scheduled",
      "delay": null
     },
@@ -2129,80 +2066,17 @@
      "flight": "9G855",
      "airline": "9G",
      "to": "SGN",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 17:50",
+     "dep_time": "2026-11-05 15:40",
+     "arr_time": "2026-11-05 17:50",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "MF860",
-     "airline": "MF",
+     "flight": "VN3532",
+     "airline": "VN",
      "to": "XMN",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 18:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN177",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 15:40",
-     "arr_time": "2026-11-04 17:05",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN619",
-     "airline": "VN",
-     "to": "BKK",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "3U7086",
-     "airline": "3U",
-     "to": "CAN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "CZ8316",
-     "airline": "CZ",
-     "to": "CAN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "LY8244",
-     "airline": "LY",
-     "to": "BKK",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "KQ5303",
-     "airline": "KQ",
-     "to": "BKK",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "PG4286",
-     "airline": "PG",
-     "to": "BKK",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:55",
+     "dep_time": "2026-11-05 15:40",
+     "arr_time": "2026-11-05 18:40",
      "status": "scheduled",
      "delay": null
     },
@@ -2210,17 +2084,44 @@
      "flight": "KL3087",
      "airline": "KL",
      "to": "BKK",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:55",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VJ771",
-     "airline": "VJ",
-     "to": "CXR",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 17:35",
+     "flight": "VN619",
+     "airline": "VN",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "KQ5303",
+     "airline": "KQ",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN3516",
+     "airline": "VN",
+     "to": "KMG",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "LY8244",
+     "airline": "LY",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
      "status": "scheduled",
      "delay": null
     },
@@ -2228,8 +2129,71 @@
      "flight": "VN3526",
      "airline": "VN",
      "to": "CAN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 18:35",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CZ8316",
+     "airline": "CZ",
+     "to": "CAN",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "MU9606",
+     "airline": "MU",
+     "to": "KMG",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "3U7086",
+     "airline": "3U",
+     "to": "CAN",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ403",
+     "airline": "VJ",
+     "to": "DLI",
+     "dep_time": "2026-11-05 14:55",
+     "arr_time": "2026-11-05 16:45",
+     "status": "scheduled",
+     "delay": 50
+    },
+    {
+     "flight": "PG4286",
+     "airline": "PG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "FD871",
+     "airline": "FD",
+     "to": "CNX",
+     "dep_time": "2026-11-05 15:20",
+     "arr_time": "2026-11-05 17:00",
+     "status": "scheduled",
+     "delay": 26
+    },
+    {
+     "flight": "VJ903",
+     "airline": "VJ",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:40",
      "status": "scheduled",
      "delay": null
     },
@@ -2237,35 +2201,8 @@
      "flight": "9G929",
      "airline": "9G",
      "to": "DAD",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "TK9362",
-     "airline": "TK",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN273",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 18:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "SQ195",
-     "airline": "SQ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:15",
      "status": "scheduled",
      "delay": null
     },
@@ -2273,19 +2210,406 @@
      "flight": "VJ445",
      "airline": "VJ",
      "to": "PQC",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 18:05",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:05",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "TK9362",
+     "airline": "TK",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN273",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN3305",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "SQ195",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K63273",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "LH7205",
+     "airline": "LH",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NZ3235",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": null
     }
    ],
    "aviationstack": [
     {
+     "flight": "K63257",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 19:45",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "H14448",
+     "airline": "H1",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W24147",
+     "airline": "W2",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A12147",
+     "airline": "A1",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "JL5756",
+     "airline": "JL",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "K63217",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:00",
+     "arr_time": "2026-11-05 19:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN3586",
+     "airline": "VN",
+     "to": "TPE",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 21:10",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "EY7304",
+     "airline": "EY",
+     "to": "KHH",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 21:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "CI9586",
+     "airline": "CI",
+     "to": "KHH",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 21:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN6023",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-05 23:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN221",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-05 23:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AK519",
+     "airline": "AK",
+     "to": "KUL",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-06 01:20",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G881",
+     "airline": "9G",
+     "to": "SGN",
+     "dep_time": "2026-11-05 21:00",
+     "arr_time": "2026-11-05 23:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ155",
+     "airline": "VJ",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 23:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ505",
+     "airline": "VJ",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 22:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "FD645",
+     "airline": "FD",
+     "to": "DMK",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 22:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CK288",
+     "airline": "CK",
+     "to": "PVG",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-06 00:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN193",
+     "airline": "VN",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:40",
+     "arr_time": "2026-11-05 22:05",
+     "status": "cancelled",
+     "delay": null
+    },
+    {
+     "flight": "9G941",
+     "airline": "9G",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "RH318",
+     "airline": "RH",
+     "to": "HKG",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 23:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ133",
+     "airline": "VJ",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:30",
+     "arr_time": "2026-11-05 22:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ521",
+     "airline": "VJ",
+     "to": "DAD",
+     "dep_time": "2026-11-05 20:25",
+     "arr_time": "2026-11-05 21:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "TG565",
+     "airline": "TG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 20:25",
+     "arr_time": "2026-11-05 22:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CZ8360",
+     "airline": "CZ",
+     "to": "CSX",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 23:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CI6888",
+     "airline": "CI",
+     "to": "TPE",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 23:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NX949",
+     "airline": "NX",
+     "to": "MFM",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 22:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VU105",
+     "airline": "VU",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:15",
+     "arr_time": "2026-11-05 22:25",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "EY431",
+     "airline": "EY",
+     "to": "AUH",
+     "dep_time": "2026-11-05 20:10",
+     "arr_time": "2026-11-06 00:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "H14472",
+     "airline": "H1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 19:10",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W24407",
+     "airline": "W2",
+     "to": "DLI",
+     "dep_time": "2026-11-05 19:10",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A12407",
+     "airline": "A1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 19:10",
+     "arr_time": "2026-11-05 21:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "H14455",
+     "airline": "H1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 20:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A14409",
+     "airline": "A1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 20:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W23409",
+     "airline": "W2",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 20:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "CI8785",
+     "airline": "CI",
+     "to": "CXR",
+     "dep_time": "2026-11-05 18:30",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W16092",
+     "airline": "W1",
+     "to": "ICN",
+     "dep_time": "2026-11-05 16:35",
+     "arr_time": "2026-11-05 22:45",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
      "flight": "VN3546",
      "airline": "VN",
      "to": "SZX",
-     "dep_time": "2026-11-04 16:10",
-     "arr_time": "2026-11-04 19:00",
+     "dep_time": "2026-11-05 16:10",
+     "arr_time": "2026-11-05 19:00",
      "status": "scheduled",
      "delay": 0
     },
@@ -2293,8 +2617,8 @@
      "flight": "VN3305",
      "airline": "VN",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": 0
     },
@@ -2302,8 +2626,8 @@
      "flight": "TK9362",
      "airline": "TK",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": 0
     },
@@ -2311,8 +2635,8 @@
      "flight": "NZ3235",
      "airline": "NZ",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": 0
     },
@@ -2320,8 +2644,44 @@
      "flight": "LH7205",
      "airline": "LH",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "K63273",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 16:00",
+     "arr_time": "2026-11-05 18:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W24903",
+     "airline": "W2",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A12903",
+     "airline": "A1",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:40",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "H15163",
+     "airline": "H1",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:50",
+     "arr_time": "2026-11-05 17:40",
      "status": "scheduled",
      "delay": 0
     },
@@ -2329,44 +2689,35 @@
      "flight": "VN3516",
      "airline": "VN",
      "to": "KMG",
-     "dep_time": "2026-11-04 16:00",
-     "arr_time": "2026-11-04 18:30",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 18:15",
      "status": "scheduled",
      "delay": 0
     },
     {
-     "flight": "H14331",
-     "airline": "H1",
-     "to": "VCA",
-     "dep_time": "2026-11-04 17:20",
-     "arr_time": "2026-11-04 19:30",
+     "flight": "PG4286",
+     "airline": "PG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
      "status": "scheduled",
      "delay": 0
     },
     {
-     "flight": "W24461",
-     "airline": "W2",
-     "to": "VCA",
-     "dep_time": "2026-11-04 17:20",
-     "arr_time": "2026-11-04 19:30",
+     "flight": "K63619",
+     "airline": "K6",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
      "status": "scheduled",
      "delay": 0
     },
     {
-     "flight": "A12461",
-     "airline": "A1",
-     "to": "VCA",
-     "dep_time": "2026-11-04 17:20",
-     "arr_time": "2026-11-04 19:30",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "CI9122",
-     "airline": "CI",
-     "to": "TPE",
-     "dep_time": "2026-11-04 17:30",
-     "arr_time": "2026-11-04 21:05",
+     "flight": "KL3087",
+     "airline": "KL",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 17:55",
      "status": "scheduled",
      "delay": 0
     },
@@ -2374,359 +2725,8 @@
      "flight": "H13210",
      "airline": "H1",
      "to": "PQC",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 19:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W24443",
-     "airline": "W2",
-     "to": "PQC",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 19:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12443",
-     "airline": "A1",
-     "to": "PQC",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 19:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VU113",
-     "airline": "VU",
-     "to": "SGN",
-     "dep_time": "2026-11-04 20:00",
-     "arr_time": "2026-11-04 22:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN263",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 20:00",
-     "arr_time": "2026-11-04 22:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN1549",
-     "airline": "VN",
-     "to": "HUI",
-     "dep_time": "2026-11-04 19:55",
-     "arr_time": "2026-11-04 21:20",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN635",
-     "airline": "VN",
-     "to": "CGK",
-     "dep_time": "2026-11-04 19:50",
-     "arr_time": "2026-11-05 00:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ1779",
-     "airline": "VJ",
-     "to": "CXR",
-     "dep_time": "2026-11-04 19:50",
-     "arr_time": "2026-11-04 21:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "CZ8178",
-     "airline": "CZ",
-     "to": "CAN",
-     "dep_time": "2026-11-04 19:45",
-     "arr_time": "2026-11-04 22:35",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VJ161",
-     "airline": "VJ",
-     "to": "SGN",
-     "dep_time": "2026-11-04 19:35",
-     "arr_time": "2026-11-04 21:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN985",
-     "airline": "VN",
-     "to": "HYD",
-     "dep_time": "2026-11-04 19:20",
-     "arr_time": "2026-11-04 22:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ907",
-     "airline": "VJ",
-     "to": "BOM",
-     "dep_time": "2026-11-04 19:15",
-     "arr_time": "2026-11-04 23:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "9G873",
-     "airline": "9G",
-     "to": "SGN",
-     "dep_time": "2026-11-04 19:15",
-     "arr_time": "2026-11-04 21:25",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "QR977",
-     "airline": "QR",
-     "to": "DOH",
-     "dep_time": "2026-11-04 19:10",
-     "arr_time": "2026-11-04 22:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "H14518",
-     "airline": "H1",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 20:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W24513",
-     "airline": "W2",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 20:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12513",
-     "airline": "A1",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 20:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W16215",
-     "airline": "W1",
-     "to": "CXR",
-     "dep_time": "2026-11-04 18:00",
-     "arr_time": "2026-11-04 19:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "FD641",
-     "airline": "FD",
-     "to": "DMK",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 14:15",
-     "status": "active",
-     "delay": 22
-    },
-    {
-     "flight": "W16032",
-     "airline": "W1",
-     "to": "PQC",
-     "dep_time": "2026-11-04 17:00",
-     "arr_time": "2026-11-04 19:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "H13244",
-     "airline": "H1",
-     "to": "HUI",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 18:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W24565",
-     "airline": "W2",
-     "to": "HUI",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 18:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12565",
-     "airline": "A1",
-     "to": "HUI",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 18:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "6E1638",
-     "airline": "6E",
-     "to": "BOM",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 23:05",
-     "status": "scheduled",
-     "delay": 15
-    },
-    {
-     "flight": "VJ1925",
-     "airline": "VJ",
-     "to": "AMD",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 23:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN219",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 21:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VJ163",
-     "airline": "VJ",
-     "to": "SGN",
-     "dep_time": "2026-11-04 19:00",
-     "arr_time": "2026-11-04 21:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "MF8012",
-     "airline": "MF",
-     "to": "PKX",
-     "dep_time": "2026-11-04 18:55",
-     "arr_time": "2026-11-04 23:30",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN617",
-     "airline": "VN",
-     "to": "BKK",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 21:00",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "QV314",
-     "airline": "QV",
-     "to": "LPQ",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 20:00",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VJ513",
-     "airline": "VJ",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 20:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN7159",
-     "airline": "VN",
-     "to": "DAD",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 20:10",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "MU6014",
-     "airline": "MU",
-     "to": "PVG",
-     "dep_time": "2026-11-04 18:45",
-     "arr_time": "2026-11-04 22:50",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN981",
-     "airline": "VN",
-     "to": "DEL",
-     "dep_time": "2026-11-04 18:35",
-     "arr_time": "2026-11-04 22:00",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "9G869",
-     "airline": "9G",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:35",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "ZH106",
-     "airline": "ZH",
-     "to": "SZX",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 21:20",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN1563",
-     "airline": "VN",
-     "to": "CXR",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 20:30",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "CA756",
-     "airline": "CA",
-     "to": "PVG",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 22:30",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN231",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VJ1409",
-     "airline": "VJ",
-     "to": "DLI",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 17:40",
+     "arr_time": "2026-11-05 19:45",
      "status": "scheduled",
      "delay": 0
     }
@@ -2745,164 +2745,29 @@
    },
    "airlabs": [
     {
-     "flight": "BL6035",
-     "airline": "BL",
-     "to": "SGN",
-     "dep_time": "2026-11-04 12:10",
-     "arr_time": "2026-11-04 13:45",
-     "status": "landed",
-     "delay": 7
-    },
-    {
-     "flight": "VN6035",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 12:10",
-     "arr_time": "2026-11-04 13:45",
-     "status": "landed",
-     "delay": 7
-    },
-    {
-     "flight": "UO557",
-     "airline": "UO",
-     "to": "HKG",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 15:20",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "CX5557",
-     "airline": "CX",
-     "to": "HKG",
-     "dep_time": "2026-11-04 12:25",
-     "arr_time": "2026-11-04 15:20",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "VN123",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 12:05",
-     "arr_time": "2026-11-04 13:40",
-     "status": "landed",
-     "delay": 23
-    },
-    {
-     "flight": "CI8985",
-     "airline": "CI",
-     "to": "SGN",
-     "dep_time": "2026-11-04 12:05",
-     "arr_time": "2026-11-04 13:40",
-     "status": "landed",
-     "delay": 23
-    },
-    {
-     "flight": "CI8858",
-     "airline": "CI",
-     "to": "HAN",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:00",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "VN168",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:00",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "K63168",
-     "airline": "K6",
-     "to": "HAN",
-     "dep_time": "2026-11-04 12:35",
-     "arr_time": "2026-11-04 14:00",
-     "status": "landed",
-     "delay": null
-    },
-    {
-     "flight": "VJ703",
-     "airline": "VJ",
-     "to": "VCA",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 14:10",
-     "status": "active",
-     "delay": null
-    },
-    {
      "flight": "FD637",
      "airline": "FD",
      "to": "DMK",
-     "dep_time": "2026-11-04 12:40",
-     "arr_time": "2026-11-04 14:25",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN166",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 11:55",
-     "arr_time": "2026-11-04 13:20",
-     "status": "active",
-     "delay": 50
-    },
-    {
-     "flight": "CI8856",
-     "airline": "CI",
-     "to": "HAN",
-     "dep_time": "2026-11-04 11:55",
-     "arr_time": "2026-11-04 13:20",
-     "status": "active",
-     "delay": 50
-    },
-    {
-     "flight": "VU8567",
-     "airline": "VU",
-     "to": "MFM",
-     "dep_time": "2026-11-04 12:50",
-     "arr_time": "2026-11-04 15:20",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VJ639",
-     "airline": "VJ",
-     "to": "SGN",
-     "dep_time": "2026-11-04 12:20",
-     "arr_time": "2026-11-04 13:45",
-     "status": "active",
-     "delay": 33
-    },
-    {
-     "flight": "TK9471",
-     "airline": "TK",
-     "to": "TPE",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 16:50",
-     "status": "active",
-     "delay": null
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 14:25",
+     "status": "landed",
+     "delay": 5
     },
     {
      "flight": "BR384",
      "airline": "BR",
      "to": "TPE",
-     "dep_time": "2026-11-04 13:00",
-     "arr_time": "2026-11-04 16:50",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 16:50",
      "status": "active",
      "delay": null
     },
     {
-     "flight": "OD503",
-     "airline": "OD",
-     "to": "KUL",
-     "dep_time": "2026-11-04 13:05",
-     "arr_time": "2026-11-04 16:55",
+     "flight": "TK9471",
+     "airline": "TK",
+     "to": "TPE",
+     "dep_time": "2026-11-05 13:00",
+     "arr_time": "2026-11-05 16:50",
      "status": "active",
      "delay": null
     },
@@ -2910,35 +2775,53 @@
      "flight": "TK7684",
      "airline": "TK",
      "to": "KUL",
-     "dep_time": "2026-11-04 13:05",
-     "arr_time": "2026-11-04 16:55",
-     "status": "active",
+     "dep_time": "2026-11-05 13:05",
+     "arr_time": "2026-11-05 16:55",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "EY5606",
      "airline": "EY",
      "to": "KUL",
-     "dep_time": "2026-11-04 13:05",
-     "arr_time": "2026-11-04 16:55",
-     "status": "active",
+     "dep_time": "2026-11-05 13:05",
+     "arr_time": "2026-11-05 16:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "OD503",
+     "airline": "OD",
+     "to": "KUL",
+     "dep_time": "2026-11-05 13:05",
+     "arr_time": "2026-11-05 16:55",
+     "status": "scheduled",
      "delay": null
     },
     {
      "flight": "VZ961",
      "airline": "VZ",
      "to": "BKK",
-     "dep_time": "2026-11-04 13:15",
-     "arr_time": "2026-11-04 15:00",
+     "dep_time": "2026-11-05 13:15",
+     "arr_time": "2026-11-05 15:00",
      "status": "active",
      "delay": null
+    },
+    {
+     "flight": "VU8567",
+     "airline": "VU",
+     "to": "MFM",
+     "dep_time": "2026-11-05 12:50",
+     "arr_time": "2026-11-05 15:20",
+     "status": "active",
+     "delay": 24
     },
     {
      "flight": "VJ512",
      "airline": "VJ",
      "to": "HAN",
-     "dep_time": "2026-11-04 13:15",
-     "arr_time": "2026-11-04 14:35",
+     "dep_time": "2026-11-05 13:15",
+     "arr_time": "2026-11-05 14:35",
      "status": "scheduled",
      "delay": null
     },
@@ -2946,71 +2829,62 @@
      "flight": "9G2965",
      "airline": "9G",
      "to": "PQC",
-     "dep_time": "2026-11-04 13:15",
-     "arr_time": "2026-11-04 15:00",
-     "status": "active",
-     "delay": 4
-    },
-    {
-     "flight": "CI8860",
-     "airline": "CI",
-     "to": "HAN",
-     "dep_time": "2026-11-04 13:20",
-     "arr_time": "2026-11-04 14:40",
+     "dep_time": "2026-11-05 13:15",
+     "arr_time": "2026-11-05 15:00",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "VN170",
+     "flight": "VN1911",
      "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 13:20",
-     "arr_time": "2026-11-04 14:40",
-     "status": "scheduled",
+     "to": "BMV",
+     "dep_time": "2026-11-05 13:20",
+     "arr_time": "2026-11-05 14:25",
+     "status": "landed",
      "delay": null
     },
     {
-     "flight": "VN1441",
-     "airline": "VN",
-     "to": "VCA",
-     "dep_time": "2026-11-04 13:15",
-     "arr_time": "2026-11-04 14:50",
+     "flight": "VJ639",
+     "airline": "VJ",
+     "to": "SGN",
+     "dep_time": "2026-11-05 12:20",
+     "arr_time": "2026-11-05 13:45",
      "status": "active",
-     "delay": 9
+     "delay": 72
+    },
+    {
+     "flight": "VN121",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 13:55",
+     "arr_time": "2026-11-05 15:30",
+     "status": "active",
+     "delay": null
     },
     {
      "flight": "9G924",
      "airline": "9G",
      "to": "HAN",
-     "dep_time": "2026-11-04 13:35",
-     "arr_time": "2026-11-04 14:55",
+     "dep_time": "2026-11-05 13:35",
+     "arr_time": "2026-11-05 14:55",
      "status": "active",
-     "delay": 4
+     "delay": 14
     },
     {
-     "flight": "PR586",
-     "airline": "PR",
-     "to": "MNL",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 18:05",
-     "status": "active",
-     "delay": null
-    },
-    {
-     "flight": "VN3476",
+     "flight": "VN160",
      "airline": "VN",
-     "to": "MNL",
-     "dep_time": "2026-11-04 14:25",
-     "arr_time": "2026-11-04 18:05",
-     "status": "active",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:00",
+     "arr_time": "2026-11-05 15:25",
+     "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "K63129",
-     "airline": "K6",
-     "to": "SGN",
-     "dep_time": "2026-11-04 14:10",
-     "arr_time": "2026-11-04 15:45",
+     "flight": "7C2212",
+     "airline": "7C",
+     "to": "ICN",
+     "dep_time": "2026-11-05 14:15",
+     "arr_time": "2026-11-05 20:40",
      "status": "active",
      "delay": null
     },
@@ -3018,35 +2892,35 @@
      "flight": "VN129",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:10",
-     "arr_time": "2026-11-04 15:45",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 15:45",
      "status": "active",
-     "delay": null
+     "delay": 4
     },
     {
-     "flight": "7C2212",
-     "airline": "7C",
-     "to": "ICN",
-     "dep_time": "2026-11-04 14:15",
-     "arr_time": "2026-11-04 20:40",
+     "flight": "K63129",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 14:10",
+     "arr_time": "2026-11-05 15:45",
      "status": "active",
-     "delay": null
+     "delay": 4
     },
     {
      "flight": "VJ724",
      "airline": "VJ",
      "to": "HPH",
-     "dep_time": "2026-11-04 14:20",
-     "arr_time": "2026-11-04 15:40",
-     "status": "scheduled",
+     "dep_time": "2026-11-05 14:20",
+     "arr_time": "2026-11-05 15:40",
+     "status": "active",
      "delay": null
     },
     {
      "flight": "JL5758",
      "airline": "JL",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:30",
-     "arr_time": "2026-11-04 15:55",
+     "dep_time": "2026-11-05 14:30",
+     "arr_time": "2026-11-05 15:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3054,62 +2928,8 @@
      "flight": "VJ631",
      "airline": "VJ",
      "to": "SGN",
-     "dep_time": "2026-11-04 14:30",
-     "arr_time": "2026-11-04 15:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "QR4479",
-     "airline": "QR",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 18:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "WY5561",
-     "airline": "WY",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 18:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "MH749",
-     "airline": "MH",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 18:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "UL2048",
-     "airline": "UL",
-     "to": "KUL",
-     "dep_time": "2026-11-04 14:40",
-     "arr_time": "2026-11-04 18:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "K63172",
-     "airline": "K6",
-     "to": "HAN",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:10",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "CI8862",
-     "airline": "CI",
-     "to": "HAN",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:10",
+     "dep_time": "2026-11-05 14:30",
+     "arr_time": "2026-11-05 15:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3117,8 +2937,35 @@
      "flight": "VN172",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 14:45",
-     "arr_time": "2026-11-04 16:10",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K63172",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "CI8862",
+     "airline": "CI",
+     "to": "HAN",
+     "dep_time": "2026-11-05 14:45",
+     "arr_time": "2026-11-05 16:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "PG4288",
+     "airline": "PG",
+     "to": "BKK",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
     },
@@ -3126,8 +2973,8 @@
      "flight": "EY7301",
      "airline": "EY",
      "to": "BKK",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
     },
@@ -3135,8 +2982,8 @@
      "flight": "VN627",
      "airline": "VN",
      "to": "BKK",
-     "dep_time": "2026-11-04 15:10",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 15:10",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
     },
@@ -3144,26 +2991,8 @@
      "flight": "VU255",
      "airline": "VU",
      "to": "SGN",
-     "dep_time": "2026-11-04 15:20",
-     "arr_time": "2026-11-04 16:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ524",
-     "airline": "VJ",
-     "to": "HAN",
-     "dep_time": "2026-11-04 15:25",
-     "arr_time": "2026-11-04 16:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "K63133",
-     "airline": "K6",
-     "to": "SGN",
-     "dep_time": "2026-11-04 15:25",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 15:20",
+     "arr_time": "2026-11-05 16:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3171,26 +3000,53 @@
      "flight": "VN133",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 15:25",
-     "arr_time": "2026-11-04 17:00",
+     "dep_time": "2026-11-05 15:25",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "AK641",
-     "airline": "AK",
-     "to": "KUL",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 19:45",
+     "flight": "K63133",
+     "airline": "K6",
+     "to": "SGN",
+     "dep_time": "2026-11-05 15:25",
+     "arr_time": "2026-11-05 17:00",
      "status": "scheduled",
      "delay": null
+    },
+    {
+     "flight": "VJ524",
+     "airline": "VJ",
+     "to": "HAN",
+     "dep_time": "2026-11-05 15:25",
+     "arr_time": "2026-11-05 16:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "PR586",
+     "airline": "PR",
+     "to": "MNL",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 18:05",
+     "status": "scheduled",
+     "delay": 70
+    },
+    {
+     "flight": "VN3476",
+     "airline": "VN",
+     "to": "MNL",
+     "dep_time": "2026-11-05 14:25",
+     "arr_time": "2026-11-05 18:05",
+     "status": "scheduled",
+     "delay": 70
     },
     {
      "flight": "KE458",
      "airline": "KE",
      "to": "ICN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 22:05",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 22:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3198,8 +3054,8 @@
      "flight": "DL7810",
      "airline": "DL",
      "to": "ICN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 22:05",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 22:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3207,8 +3063,8 @@
      "flight": "VN3442",
      "airline": "VN",
      "to": "ICN",
-     "dep_time": "2026-11-04 15:45",
-     "arr_time": "2026-11-04 22:05",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 22:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3216,17 +3072,26 @@
      "flight": "9G928",
      "airline": "9G",
      "to": "HAN",
-     "dep_time": "2026-11-04 15:55",
-     "arr_time": "2026-11-04 17:15",
+     "dep_time": "2026-11-05 15:55",
+     "arr_time": "2026-11-05 17:15",
      "status": "scheduled",
      "delay": null
+    },
+    {
+     "flight": "AK641",
+     "airline": "AK",
+     "to": "KUL",
+     "dep_time": "2026-11-05 15:45",
+     "arr_time": "2026-11-05 19:45",
+     "status": "scheduled",
+     "delay": 13
     },
     {
      "flight": "VN432",
      "airline": "VN",
      "to": "ICN",
-     "dep_time": "2026-11-04 16:15",
-     "arr_time": "2026-11-04 22:35",
+     "dep_time": "2026-11-05 16:15",
+     "arr_time": "2026-11-05 22:35",
      "status": "scheduled",
      "delay": null
     },
@@ -3234,8 +3099,8 @@
      "flight": "VN6045",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 16:30",
-     "arr_time": "2026-11-04 18:05",
+     "dep_time": "2026-11-05 16:30",
+     "arr_time": "2026-11-05 18:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3243,8 +3108,8 @@
      "flight": "BL6045",
      "airline": "BL",
      "to": "SGN",
-     "dep_time": "2026-11-04 16:30",
-     "arr_time": "2026-11-04 18:05",
+     "dep_time": "2026-11-05 16:30",
+     "arr_time": "2026-11-05 18:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3252,17 +3117,8 @@
      "flight": "NX977",
      "airline": "NX",
      "to": "MFM",
-     "dep_time": "2026-11-04 16:30",
-     "arr_time": "2026-11-04 19:05",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VJ581",
-     "airline": "VJ",
-     "to": "CXR",
-     "dep_time": "2026-11-04 16:40",
-     "arr_time": "2026-11-04 17:45",
+     "dep_time": "2026-11-05 16:30",
+     "arr_time": "2026-11-05 19:05",
      "status": "scheduled",
      "delay": null
     },
@@ -3270,17 +3126,8 @@
      "flight": "VN3829",
      "airline": "VN",
      "to": "SAI",
-     "dep_time": "2026-11-04 16:40",
-     "arr_time": "2026-11-04 18:00",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN176",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:40",
-     "arr_time": "2026-11-04 18:05",
+     "dep_time": "2026-11-05 16:40",
+     "arr_time": "2026-11-05 18:00",
      "status": "scheduled",
      "delay": null
     },
@@ -3288,8 +3135,8 @@
      "flight": "K6841",
      "airline": "K6",
      "to": "SAI",
-     "dep_time": "2026-11-04 16:40",
-     "arr_time": "2026-11-04 18:00",
+     "dep_time": "2026-11-05 16:40",
+     "arr_time": "2026-11-05 18:00",
      "status": "scheduled",
      "delay": null
     },
@@ -3297,35 +3144,8 @@
      "flight": "VA5487",
      "airline": "VA",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "NZ3469",
-     "airline": "NZ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN3179",
-     "airline": "VN",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AI8139",
-     "airline": "AI",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3333,8 +3153,26 @@
      "flight": "LX9007",
      "airline": "LX",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AI8139",
+     "airline": "AI",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NZ3469",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3342,8 +3180,17 @@
      "flight": "LH7203",
      "airline": "LH",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN3179",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3351,17 +3198,8 @@
      "flight": "SQ173",
      "airline": "SQ",
      "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "EY6804",
-     "airline": "EY",
-     "to": "HKG",
-     "dep_time": "2026-11-04 16:50",
-     "arr_time": "2026-11-04 19:45",
+     "dep_time": "2026-11-05 16:45",
+     "arr_time": "2026-11-05 20:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3369,8 +3207,17 @@
      "flight": "HX549",
      "airline": "HX",
      "to": "HKG",
-     "dep_time": "2026-11-04 16:50",
-     "arr_time": "2026-11-04 19:45",
+     "dep_time": "2026-11-05 16:50",
+     "arr_time": "2026-11-05 19:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "EY6804",
+     "airline": "EY",
+     "to": "HKG",
+     "dep_time": "2026-11-05 16:50",
+     "arr_time": "2026-11-05 19:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3378,8 +3225,8 @@
      "flight": "VJ514",
      "airline": "VJ",
      "to": "HAN",
-     "dep_time": "2026-11-04 16:55",
-     "arr_time": "2026-11-04 18:15",
+     "dep_time": "2026-11-05 16:55",
+     "arr_time": "2026-11-05 18:15",
      "status": "scheduled",
      "delay": null
     },
@@ -3387,26 +3234,8 @@
      "flight": "VN135",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "TK9267",
-     "airline": "TK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "SK8201",
-     "airline": "SK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
+     "dep_time": "2026-11-05 17:10",
+     "arr_time": "2026-11-05 18:45",
      "status": "scheduled",
      "delay": null
     },
@@ -3414,8 +3243,8 @@
      "flight": "Z2825",
      "airline": "Z2",
      "to": "MNL",
-     "dep_time": "2026-11-04 17:25",
-     "arr_time": "2026-11-04 20:55",
+     "dep_time": "2026-11-05 17:25",
+     "arr_time": "2026-11-05 20:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3423,26 +3252,17 @@
      "flight": "VN1941",
      "airline": "VN",
      "to": "CXR",
-     "dep_time": "2026-11-04 17:30",
-     "arr_time": "2026-11-04 18:45",
+     "dep_time": "2026-11-05 17:30",
+     "arr_time": "2026-11-05 18:45",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "AK645",
-     "airline": "AK",
-     "to": "KUL",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 21:40",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN178",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 17:45",
-     "arr_time": "2026-11-04 19:05",
+     "flight": "9G983",
+     "airline": "9G",
+     "to": "SGN",
+     "dep_time": "2026-11-05 17:50",
+     "arr_time": "2026-11-05 19:20",
      "status": "scheduled",
      "delay": null
     },
@@ -3450,35 +3270,17 @@
      "flight": "9G934",
      "airline": "9G",
      "to": "HAN",
-     "dep_time": "2026-11-04 17:55",
-     "arr_time": "2026-11-04 19:15",
+     "dep_time": "2026-11-05 17:55",
+     "arr_time": "2026-11-05 19:15",
      "status": "scheduled",
      "delay": null
     },
     {
-     "flight": "K63180",
-     "airline": "K6",
+     "flight": "TK9230",
+     "airline": "TK",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "NH9732",
-     "airline": "NH",
-     "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN180",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
      "status": "scheduled",
      "delay": null
     },
@@ -3486,8 +3288,8 @@
      "flight": "VU204",
      "airline": "VU",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:35",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:35",
      "status": "scheduled",
      "delay": null
     },
@@ -3495,8 +3297,44 @@
      "flight": "CI9070",
      "airline": "CI",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN180",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NH9732",
+     "airline": "NH",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K63180",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN176",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
      "status": "scheduled",
      "delay": null
     },
@@ -3504,17 +3342,8 @@
      "flight": "VZ963",
      "airline": "VZ",
      "to": "BKK",
-     "dep_time": "2026-11-04 18:10",
-     "arr_time": "2026-11-04 19:55",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "JL5762",
-     "airline": "JL",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:10",
+     "arr_time": "2026-11-05 19:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3522,8 +3351,26 @@
      "flight": "VJ633",
      "airline": "VJ",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "JL5762",
+     "airline": "JL",
+     "to": "SGN",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ729",
+     "airline": "VJ",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 19:25",
      "status": "scheduled",
      "delay": null
     },
@@ -3531,8 +3378,8 @@
      "flight": "9G985",
      "airline": "9G",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 19:55",
      "status": "scheduled",
      "delay": null
     },
@@ -3540,8 +3387,8 @@
      "flight": "JX704",
      "airline": "JX",
      "to": "TPE",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 22:10",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 22:10",
      "status": "scheduled",
      "delay": null
     },
@@ -3549,8 +3396,8 @@
      "flight": "CX5559",
      "airline": "CX",
      "to": "HKG",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 21:25",
+     "dep_time": "2026-11-05 18:30",
+     "arr_time": "2026-11-05 21:25",
      "status": "scheduled",
      "delay": null
     },
@@ -3558,17 +3405,8 @@
      "flight": "UO559",
      "airline": "UO",
      "to": "HKG",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 21:25",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN141",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:30",
+     "arr_time": "2026-11-05 21:25",
      "status": "scheduled",
      "delay": null
     },
@@ -3576,17 +3414,8 @@
      "flight": "CI8981",
      "airline": "CI",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "SK8203",
-     "airline": "SK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
      "status": "scheduled",
      "delay": null
     },
@@ -3594,8 +3423,17 @@
      "flight": "K63141",
      "airline": "K6",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN141",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
      "status": "scheduled",
      "delay": null
     },
@@ -3603,26 +3441,8 @@
      "flight": "FD639",
      "airline": "FD",
      "to": "DMK",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 20:35",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "AF3316",
-     "airline": "AF",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
-     "status": "scheduled",
-     "delay": null
-    },
-    {
-     "flight": "VN188",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 18:50",
+     "arr_time": "2026-11-05 20:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3630,8 +3450,26 @@
      "flight": "CI8888",
      "airline": "CI",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN188",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "AF3316",
+     "airline": "AF",
+     "to": "HAN",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
      "delay": null
     },
@@ -3639,37 +3477,361 @@
      "flight": "PR3361",
      "airline": "PR",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K63188",
+     "airline": "K6",
+     "to": "HAN",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "IT586",
+     "airline": "IT",
+     "to": "KHH",
+     "dep_time": "2026-11-05 19:15",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN7941",
+     "airline": "VN",
+     "to": "CXR",
+     "dep_time": "2026-11-05 19:30",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN3875",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NZ3375",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "SQ175",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "IT552",
+     "airline": "IT",
+     "to": "TPE",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 23:15",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "NX985",
+     "airline": "NX",
+     "to": "MFM",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 23:00",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "JL5766",
+     "airline": "JL",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ516",
+     "airline": "VJ",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "K6843",
+     "airline": "K6",
+     "to": "KTI",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 22:10",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN6055",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "BL6055",
+     "airline": "BL",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G993",
+     "airline": "9G",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:25",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VJ522",
+     "airline": "VJ",
+     "to": "HAN",
+     "dep_time": "2026-11-05 22:15",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "5J5757",
+     "airline": "5J",
+     "to": "MNL",
+     "dep_time": "2026-11-05 22:30",
+     "arr_time": "2026-11-06 02:25",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "9G946",
+     "airline": "9G",
+     "to": "HAN",
+     "dep_time": "2026-11-05 22:35",
+     "arr_time": "2026-11-05 23:55",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "VN194",
+     "airline": "VN",
+     "to": "HAN",
+     "dep_time": "2026-11-05 22:40",
+     "arr_time": "2026-11-06 00:05",
      "status": "scheduled",
      "delay": null
     }
    ],
    "aviationstack": [
     {
+     "flight": "VN6055",
+     "airline": "VN",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "9G993",
+     "airline": "9G",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W16209",
+     "airline": "W1",
+     "to": "SGN",
+     "dep_time": "2026-11-05 20:55",
+     "arr_time": "2026-11-05 22:25",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "K6843",
+     "airline": "K6",
+     "to": "KTI",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 22:10",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN3857",
+     "airline": "VN",
+     "to": "KTI",
+     "dep_time": "2026-11-05 20:50",
+     "arr_time": "2026-11-05 22:10",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VJ516",
+     "airline": "VJ",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "H14132",
+     "airline": "H1",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "W24516",
+     "airline": "W2",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "A12516",
+     "airline": "A1",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "JL5766",
+     "airline": "JL",
+     "to": "HAN",
+     "dep_time": "2026-11-05 20:35",
+     "arr_time": "2026-11-05 21:55",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "NX985",
+     "airline": "NX",
+     "to": "MFM",
+     "dep_time": "2026-11-05 20:20",
+     "arr_time": "2026-11-05 23:00",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "IT552",
+     "airline": "IT",
+     "to": "TPE",
+     "dep_time": "2026-11-05 19:50",
+     "arr_time": "2026-11-05 23:15",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "SQ175",
+     "airline": "SQ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN3875",
+     "airline": "VN",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "NZ3375",
+     "airline": "NZ",
+     "to": "SIN",
+     "dep_time": "2026-11-05 19:35",
+     "arr_time": "2026-11-05 23:35",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
+     "flight": "VN7941",
+     "airline": "VN",
+     "to": "CXR",
+     "dep_time": "2026-11-05 19:30",
+     "arr_time": "2026-11-05 20:45",
+     "status": "scheduled",
+     "delay": null
+    },
+    {
+     "flight": "IT586",
+     "airline": "IT",
+     "to": "KHH",
+     "dep_time": "2026-11-05 19:15",
+     "arr_time": "2026-11-05 22:30",
+     "status": "scheduled",
+     "delay": 0
+    },
+    {
      "flight": "BL6035",
      "airline": "BL",
      "to": "SGN",
-     "dep_time": "2026-11-04 12:10",
-     "arr_time": "2026-11-04 13:45",
+     "dep_time": "2026-11-05 12:10",
+     "arr_time": "2026-11-05 13:45",
      "status": "active",
-     "delay": 20
+     "delay": 50
+    },
+    {
+     "flight": "FD637",
+     "airline": "FD",
+     "to": "DMK",
+     "dep_time": "2026-11-05 12:40",
+     "arr_time": "2026-11-05 14:25",
+     "status": "active",
+     "delay": 30
     },
     {
      "flight": "VN188",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
-     "delay": 0
+     "delay": null
     },
     {
      "flight": "PR3361",
      "airline": "PR",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
      "delay": 0
     },
@@ -3677,8 +3839,8 @@
      "flight": "K63188",
      "airline": "K6",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
      "delay": 0
     },
@@ -3686,8 +3848,8 @@
      "flight": "CI8888",
      "airline": "CI",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
      "delay": 0
     },
@@ -3695,17 +3857,26 @@
      "flight": "AF3316",
      "airline": "AF",
      "to": "HAN",
-     "dep_time": "2026-11-04 19:05",
-     "arr_time": "2026-11-04 20:30",
+     "dep_time": "2026-11-05 19:05",
+     "arr_time": "2026-11-05 20:30",
      "status": "scheduled",
      "delay": 0
+    },
+    {
+     "flight": "VU212",
+     "airline": "VU",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:55",
+     "arr_time": "2026-11-05 20:25",
+     "status": "scheduled",
+     "delay": null
     },
     {
      "flight": "AK639",
      "airline": "AK",
      "to": "DMK",
-     "dep_time": "2026-11-04 18:50",
-     "arr_time": "2026-11-04 20:35",
+     "dep_time": "2026-11-05 18:50",
+     "arr_time": "2026-11-05 20:40",
      "status": "scheduled",
      "delay": 0
     },
@@ -3713,44 +3884,35 @@
      "flight": "VN141",
      "airline": "VN",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
      "status": "scheduled",
-     "delay": 20
-    },
-    {
-     "flight": "SK8203",
-     "airline": "SK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
-     "status": "scheduled",
-     "delay": 20
+     "delay": null
     },
     {
      "flight": "K63141",
      "airline": "K6",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
      "status": "scheduled",
-     "delay": 20
+     "delay": 0
     },
     {
      "flight": "CI8981",
      "airline": "CI",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:40",
-     "arr_time": "2026-11-04 20:15",
+     "dep_time": "2026-11-05 18:40",
+     "arr_time": "2026-11-05 20:15",
      "status": "scheduled",
-     "delay": 20
+     "delay": 0
     },
     {
      "flight": "UO559",
      "airline": "UO",
      "to": "HKG",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 21:25",
+     "dep_time": "2026-11-05 18:30",
+     "arr_time": "2026-11-05 21:25",
      "status": "scheduled",
      "delay": 0
     },
@@ -3758,8 +3920,8 @@
      "flight": "CX5559",
      "airline": "CX",
      "to": "HKG",
-     "dep_time": "2026-11-04 18:30",
-     "arr_time": "2026-11-04 21:25",
+     "dep_time": "2026-11-05 18:30",
+     "arr_time": "2026-11-05 21:25",
      "status": "scheduled",
      "delay": 0
     },
@@ -3767,17 +3929,17 @@
      "flight": "9G985",
      "airline": "9G",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 19:55",
      "status": "scheduled",
-     "delay": 0
+     "delay": null
     },
     {
      "flight": "W16202",
      "airline": "W1",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 19:55",
      "status": "scheduled",
      "delay": 0
     },
@@ -3785,17 +3947,53 @@
      "flight": "JX704",
      "airline": "JX",
      "to": "TPE",
-     "dep_time": "2026-11-04 18:25",
-     "arr_time": "2026-11-04 22:10",
+     "dep_time": "2026-11-05 18:25",
+     "arr_time": "2026-11-05 22:10",
      "status": "scheduled",
      "delay": 0
+    },
+    {
+     "flight": "VJ729",
+     "airline": "VJ",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 15
+    },
+    {
+     "flight": "H14427",
+     "airline": "H1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 15
+    },
+    {
+     "flight": "W24729",
+     "airline": "W2",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 15
+    },
+    {
+     "flight": "A12729",
+     "airline": "A1",
+     "to": "DLI",
+     "dep_time": "2026-11-05 18:20",
+     "arr_time": "2026-11-05 19:25",
+     "status": "scheduled",
+     "delay": 15
     },
     {
      "flight": "VJ633",
      "airline": "VJ",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3803,8 +4001,8 @@
      "flight": "H13217",
      "airline": "H1",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3812,8 +4010,8 @@
      "flight": "W24633",
      "airline": "W2",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3821,8 +4019,8 @@
      "flight": "A12633",
      "airline": "A1",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3830,8 +4028,8 @@
      "flight": "JL5762",
      "airline": "JL",
      "to": "SGN",
-     "dep_time": "2026-11-04 18:15",
-     "arr_time": "2026-11-04 19:40",
+     "dep_time": "2026-11-05 18:15",
+     "arr_time": "2026-11-05 19:40",
      "status": "scheduled",
      "delay": null
     },
@@ -3839,8 +4037,8 @@
      "flight": "VZ963",
      "airline": "VZ",
      "to": "BKK",
-     "dep_time": "2026-11-04 18:10",
-     "arr_time": "2026-11-04 19:55",
+     "dep_time": "2026-11-05 18:10",
+     "arr_time": "2026-11-05 19:55",
      "status": "scheduled",
      "delay": 0
     },
@@ -3848,253 +4046,55 @@
      "flight": "VN180",
      "airline": "VN",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
-     "status": "cancelled",
-     "delay": 0
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "scheduled",
+     "delay": null
     },
     {
      "flight": "CI9070",
      "airline": "CI",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
      "status": "cancelled",
-     "delay": 0
+     "delay": null
     },
     {
      "flight": "K63180",
      "airline": "K6",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
      "status": "cancelled",
-     "delay": 0
+     "delay": null
+    },
+    {
+     "flight": "TK9230",
+     "airline": "TK",
+     "to": "HAN",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
+     "status": "cancelled",
+     "delay": null
     },
     {
      "flight": "NH9732",
      "airline": "NH",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:30",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:30",
      "status": "cancelled",
-     "delay": 0
+     "delay": null
     },
     {
      "flight": "VU204",
      "airline": "VU",
      "to": "HAN",
-     "dep_time": "2026-11-04 18:05",
-     "arr_time": "2026-11-04 19:35",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "9G934",
-     "airline": "9G",
-     "to": "HAN",
-     "dep_time": "2026-11-04 17:55",
-     "arr_time": "2026-11-04 19:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W16179",
-     "airline": "W1",
-     "to": "HAN",
-     "dep_time": "2026-11-04 17:55",
-     "arr_time": "2026-11-04 19:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN178",
-     "airline": "VN",
-     "to": "HAN",
-     "dep_time": "2026-11-04 17:45",
-     "arr_time": "2026-11-04 19:05",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "AK645",
-     "airline": "AK",
-     "to": "KUL",
-     "dep_time": "2026-11-04 17:40",
-     "arr_time": "2026-11-04 21:40",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN1941",
-     "airline": "VN",
-     "to": "CXR",
-     "dep_time": "2026-11-04 17:30",
-     "arr_time": "2026-11-04 18:45",
+     "dep_time": "2026-11-05 18:05",
+     "arr_time": "2026-11-05 19:35",
      "status": "scheduled",
      "delay": null
-    },
-    {
-     "flight": "Z2825",
-     "airline": "Z2",
-     "to": "MNL",
-     "dep_time": "2026-11-04 17:25",
-     "arr_time": "2026-11-04 20:55",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN135",
-     "airline": "VN",
-     "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "SK8201",
-     "airline": "SK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "TK9267",
-     "airline": "TK",
-     "to": "SGN",
-     "dep_time": "2026-11-04 17:10",
-     "arr_time": "2026-11-04 18:45",
-     "status": "cancelled",
-     "delay": null
-    },
-    {
-     "flight": "VJ514",
-     "airline": "VJ",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:55",
-     "arr_time": "2026-11-04 18:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "H15108",
-     "airline": "H1",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:55",
-     "arr_time": "2026-11-04 18:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "W24514",
-     "airline": "W2",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:55",
-     "arr_time": "2026-11-04 18:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "A12514",
-     "airline": "A1",
-     "to": "HAN",
-     "dep_time": "2026-11-04 16:55",
-     "arr_time": "2026-11-04 18:15",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "HX549",
-     "airline": "HX",
-     "to": "HKG",
-     "dep_time": "2026-11-04 16:50",
-     "arr_time": "2026-11-04 19:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "EY6804",
-     "airline": "EY",
-     "to": "HKG",
-     "dep_time": "2026-11-04 16:50",
-     "arr_time": "2026-11-04 19:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "SQ173",
-     "airline": "SQ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VN3179",
-     "airline": "VN",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VA5487",
-     "airline": "VA",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "NZ3469",
-     "airline": "NZ",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "LX9007",
-     "airline": "LX",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "LH7203",
-     "airline": "LH",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "AI8139",
-     "airline": "AI",
-     "to": "SIN",
-     "dep_time": "2026-11-04 16:45",
-     "arr_time": "2026-11-04 20:45",
-     "status": "scheduled",
-     "delay": 0
-    },
-    {
-     "flight": "VJ581",
-     "airline": "VJ",
-     "to": "CXR",
-     "dep_time": "2026-11-04 16:40",
-     "arr_time": "2026-11-04 17:45",
-     "status": "scheduled",
-     "delay": 0
     }
    ],
    "errors": {}
